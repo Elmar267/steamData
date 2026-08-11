@@ -1,0 +1,2069 @@
+[
+  {
+    "id": "1",
+    "title": "Counter-Strike 2",
+    "url": "https://store.steampowered.com/app/730/",
+    "developer": "Valve",
+    "publisher": "Valve",
+    "releaseDate": "08/21/12",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "features": [
+      "Multi-player",
+      "Online PvP",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "For over two decades, Counter-Strike has offered an elite competitive experience, one shaped by millions of players from across the globe. And now the next chapter in the CS story is about to begin. This is Counter-Strike 2. A free upgrade to CS:GO, Counter-Strike 2 marks the largest technical leap in Counter-Strike’s history. Built on the Source 2 engine, Counter-Strike 2 is modernized with realistic physically-based rendering, state of the art networking, and upgraded Community Workshop tools.",
+    "discount": "0%",
+    "oldPrice": "Free",
+    "newPrice": "Free",
+    "category": "action",
+    "slug": "counter-strike-2",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "2",
+    "title": "Dota 2",
+    "url": "https://store.steampowered.com/app/570/",
+    "developer": "Valve",
+    "publisher": "Valve",
+    "releaseDate": "07/09/13",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "features": [
+      "Multi-player",
+      "Online PvP",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Dota 2 is a free-to-play multiplayer online battle arena where two teams of five heroes compete to destroy the enemy Ancient. Choose from a huge roster of unique heroes, master powerful abilities, and work with your team to control the battlefield. Every match offers a different challenge through strategy, item choices, positioning, and teamwork.",
+    "discount": "0%",
+    "oldPrice": "Free",
+    "newPrice": "Free",
+    "category": "action",
+    "slug": "dota-2",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "3",
+    "title": "Grand Theft Auto V",
+    "url": "https://store.steampowered.com/app/271590/",
+    "developer": "Rockstar North",
+    "publisher": "Rockstar Games",
+    "releaseDate": "04/14/15",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "features": [
+      "Single-player",
+      "Multi-player",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Grand Theft Auto V tells the story of three criminals whose lives become connected through a series of dangerous heists in Los Santos and Blaine County. Explore a huge open world, switch between Michael, Franklin, and Trevor, complete missions, drive vehicles, and take part in countless activities. The game also includes GTA Online, where players can build their own criminal empire with friends.",
+    "discount": "0%",
+    "oldPrice": "$29.99",
+    "newPrice": "$29.99",
+    "category": "action",
+    "slug": "grand-theft-auto-v",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "4",
+    "title": "DOOM Eternal",
+    "url": "https://store.steampowered.com/app/782330/",
+    "developer": "id Software",
+    "publisher": "Bethesda Softworks",
+    "releaseDate": "03/19/20",
+    "platform": "Windows",
+    "genres": [
+      "Action"
+    ],
+    "features": [
+      "Single-player",
+      "Multi-player",
+      "Online PvP",
+      "Steam Achievements",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "DOOM Eternal puts you in the role of the Slayer as he fights through an invasion of Earth by demonic forces. Use an arsenal of powerful weapons, brutal glory kills, the chainsaw, and fast movement abilities to stay alive. Aggressive combat, vertical arenas, challenging enemies, and constant resource management make every battle intense.",
+    "discount": "0%",
+    "oldPrice": "$39.99",
+    "newPrice": "$39.99",
+    "category": "action",
+    "slug": "doom-eternal",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782330/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782330/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "5",
+    "title": "Hades",
+    "url": "https://store.steampowered.com/app/1145360/",
+    "developer": "Supergiant Games",
+    "publisher": "Supergiant Games",
+    "releaseDate": "09/17/20",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "features": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Hades is a fast-paced action roguelike in which Zagreus, the son of Hades, attempts to escape the Underworld and reach the surface. Battle through constantly changing chambers filled with enemies and powerful bosses while combining weapons, Boons, and upgrades. Each failed attempt reveals more of the story and relationships of the characters around you.",
+    "discount": "0%",
+    "oldPrice": "$24.99",
+    "newPrice": "$24.99",
+    "category": "action",
+    "slug": "hades",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "6",
+    "title": "Devil May Cry 5",
+    "url": "https://store.steampowered.com/app/601150/",
+    "developer": "CAPCOM Co., Ltd.",
+    "publisher": "CAPCOM Co., Ltd.",
+    "releaseDate": "03/08/19",
+    "platform": "Windows",
+    "genres": [
+      "Action"
+    ],
+    "features": [
+      "Single-player",
+      "Steam Achievements",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Devil May Cry 5 is a stylish action game following Nero, Dante, and V as they battle a demonic threat consuming Red Grave City. Each character has a distinct combat style, weapons, and abilities, allowing you to chain attacks into spectacular combos. Master timing, movement, and enemy variety to achieve higher style rankings.",
+    "discount": "0%",
+    "oldPrice": "$29.99",
+    "newPrice": "$29.99",
+    "category": "action",
+    "slug": "devil-may-cry-5",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601150/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601150/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "7",
+    "title": "Sekiro: Shadows Die Twice",
+    "url": "https://store.steampowered.com/app/814380/",
+    "developer": "FromSoftware",
+    "publisher": "Activision",
+    "releaseDate": "03/21/19",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "features": [
+      "Single-player",
+      "Steam Achievements",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Sekiro: Shadows Die Twice follows a shinobi known as the Wolf as he protects his young lord in a war-torn version of Sengoku-era Japan. Combat focuses on precise swordplay, parrying, posture, stealth, and decisive attacks rather than traditional character builds. Explore dangerous environments, uncover secrets, and face demanding bosses where learning enemy patterns is essential.",
+    "discount": "0%",
+    "oldPrice": "$59.99",
+    "newPrice": "$59.99",
+    "category": "action",
+    "slug": "sekiro-shadows-die-twice",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "8",
+    "title": "Batman: Arkham Knight",
+    "url": "https://store.steampowered.com/app/208650/",
+    "developer": "Rocksteady Studios",
+    "publisher": "Warner Bros. Interactive Entertainment",
+    "releaseDate": "06/23/15",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "features": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Batman: Arkham Knight puts you behind the mask of Batman as he faces the mysterious Arkham Knight and a group of dangerous villains in Gotham City. Patrol a large open world using Batman's gadgets, detective skills, and combat abilities, while the Batmobile adds new traversal and combat options. The story brings together several major characters from the Batman universe.",
+    "discount": "0%",
+    "oldPrice": "$19.99",
+    "newPrice": "$19.99",
+    "category": "action",
+    "slug": "batman-arkham-knight",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208650/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208650/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "9",
+    "title": "Titanfall 2",
+    "url": "https://store.steampowered.com/app/1237970/",
+    "developer": "Respawn",
+    "publisher": "Electronic Arts",
+    "releaseDate": "10/28/16",
+    "platform": "Windows",
+    "genres": [
+      "Action"
+    ],
+    "features": [
+      "Single-player",
+      "Multi-player",
+      "Online PvP",
+      "Steam Achievements",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Titanfall 2 combines fast-paced first-person shooting with agile movement and powerful Titans. Follow pilot Jack Cooper and his Titan BT-7274 through a cinematic single-player campaign filled with varied environments, creative encounters, and intense battles. Multiplayer expands the experience with wall-running, double jumps, customizable loadouts, and large-scale Titan combat.",
+    "discount": "0%",
+    "oldPrice": "$29.99",
+    "newPrice": "$29.99",
+    "category": "action",
+    "slug": "titanfall-2",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237970/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237970/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "10",
+    "title": "Left 4 Dead 2",
+    "url": "https://store.steampowered.com/app/550/",
+    "developer": "Valve",
+    "publisher": "Valve",
+    "releaseDate": "11/17/09",
+    "platform": "Windows",
+    "genres": [
+      "Action"
+    ],
+    "features": [
+      "Single-player",
+      "Multi-player",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Left 4 Dead 2 is a cooperative first-person shooter where four survivors fight their way through cities, swamps, highways, and other locations overrun by infected. Work together to manage weapons, supplies, and special infected while the dynamic AI Director changes enemy encounters and item placement. Teamwork and communication are essential for surviving each campaign.",
+    "discount": "0%",
+    "oldPrice": "$9.99",
+    "newPrice": "$9.99",
+    "category": "action",
+    "slug": "left-4-dead-2",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "11",
+    "title": "Red Dead Redemption 2",
+    "url": "https://store.steampowered.com/app/1174180/",
+    "developer": "Rockstar Games",
+    "publisher": "Rockstar Games",
+    "releaseDate": "12/05/19",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "features": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Red Dead Redemption 2 is an open-world western adventure centered on Arthur Morgan, an outlaw and member of the Van der Linde gang. As the gang struggles to survive while the age of outlaws comes to an end, you travel across a vast frontier, complete missions, hunt, explore, and build relationships with other characters. The game combines a detailed world with a character-driven story.",
+    "discount": "0%",
+    "oldPrice": "$59.99",
+    "newPrice": "$59.99",
+    "category": "adventure",
+    "slug": "red-dead-redemption-2",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "12",
+    "title": "The Witcher 3: Wild Hunt",
+    "url": "https://store.steampowered.com/app/292030/",
+    "developer": "CD PROJEKT RED",
+    "publisher": "CD PROJEKT RED",
+    "releaseDate": "05/18/15",
+    "platform": "Windows",
+    "genres": [
+      "RPG",
+      "Adventure"
+    ],
+    "features": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "The Witcher 3: Wild Hunt follows Geralt of Rivia, a professional monster hunter searching for Ciri while the continent is threatened by war and the mysterious Wild Hunt. Explore a massive open world, investigate contracts, fight monsters, use signs and potions, and make choices that can change quests and character relationships. Its main story and numerous side quests create a large, branching adventure.",
+    "discount": "0%",
+    "oldPrice": "$39.99",
+    "newPrice": "$39.99",
+    "category": "adventure",
+    "slug": "the-witcher-3-wild-hunt",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "13",
+    "title": "Life is Strange",
+    "url": "https://store.steampowered.com/app/319630/",
+    "developer": "DONTNOD Entertainment",
+    "publisher": "Square Enix",
+    "releaseDate": "01/29/15",
+    "platform": "Windows",
+    "genres": [
+      "Adventure"
+    ],
+    "features": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Life is Strange follows Max Caulfield, a photography student who discovers that she can rewind time. After returning to her hometown of Arcadia Bay, Max becomes involved in a mystery surrounding her friend Chloe and a missing student. Your choices influence conversations, relationships, events, and the direction of the story, making decisions an important part of the experience.",
+    "discount": "0%",
+    "oldPrice": "$19.99",
+    "newPrice": "$19.99",
+    "category": "adventure",
+    "slug": "life-is-strange",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "14",
+    "title": "Tomb Raider",
+    "url": "https://store.steampowered.com/app/203160/",
+    "developer": "Crystal Dynamics",
+    "publisher": "Crystal Dynamics",
+    "releaseDate": "03/04/13",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "features": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Tomb Raider follows a young Lara Croft on her first major adventure after a shipwreck leaves her stranded on a dangerous island. Lara must explore ancient ruins, solve environmental puzzles, hunt for resources, and fight hostile survivors while uncovering the island's secrets. The game combines cinematic action with exploration and survival mechanics.",
+    "discount": "0%",
+    "oldPrice": "$19.99",
+    "newPrice": "$19.99",
+    "category": "adventure",
+    "slug": "tomb-raider",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "15",
+    "title": "Rise of the Tomb Raider",
+    "url": "https://store.steampowered.com/app/391220/",
+    "developer": "Crystal Dynamics",
+    "publisher": "Square Enix",
+    "releaseDate": "01/28/16",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "features": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Rise of the Tomb Raider continues Lara Croft's journey as she searches for the legendary source of immortality while competing against the organization Trinity. Explore Siberian wilderness, ancient tombs, and hidden ruins while hunting animals, crafting equipment, climbing dangerous terrain, and solving puzzles. The game expands the series' exploration and survival systems with larger environments.",
+    "discount": "0%",
+    "oldPrice": "$29.99",
+    "newPrice": "$29.99",
+    "category": "adventure",
+    "slug": "rise-of-the-tomb-raider",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "16",
+    "title": "Horizon Zero Dawn Complete Edition",
+    "url": "https://store.steampowered.com/app/1151640/",
+    "developer": "Guerrilla",
+    "publisher": "PlayStation Publishing LLC",
+    "releaseDate": "08/07/20",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "features": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Horizon Zero Dawn Complete Edition follows Aloy, a skilled hunter living in a world where humanity survives among mysterious machines. As she searches for answers about her origins, Aloy uncovers secrets about the ancient civilization that shaped the world. Hunt robotic creatures using bows, traps, and specialized weapons, explore a large open world, and customize your abilities and equipment.",
+    "discount": "0%",
+    "oldPrice": "$49.99",
+    "newPrice": "$49.99",
+    "category": "adventure",
+    "slug": "horizon-zero-dawn-complete-edition",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "17",
+    "title": "Death Stranding",
+    "url": "https://store.steampowered.com/app/1190460/",
+    "developer": "KOJIMA PRODUCTIONS",
+    "publisher": "505 Games",
+    "releaseDate": "07/14/20",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "features": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Death Stranding is an unusual open-world adventure set in a fractured future where isolated communities struggle to survive after a mysterious catastrophe. As Sam Porter Bridges, you travel across dangerous landscapes delivering supplies and reconnecting distant settlements. Careful route planning, terrain management, equipment, and cooperation with other players are central to the experience.",
+    "discount": "0%",
+    "oldPrice": "$39.99",
+    "newPrice": "$39.99",
+    "category": "adventure",
+    "slug": "death-stranding-directors-cut",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190460/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190460/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "18",
+    "title": "Stray",
+    "url": "https://store.steampowered.com/app/1332010/",
+    "developer": "BlueTwelve Studio",
+    "publisher": "Annapurna Interactive",
+    "releaseDate": "07/19/22",
+    "platform": "Windows",
+    "genres": [
+      "Adventure"
+    ],
+    "features": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Stray is an atmospheric adventure in which you play as a stray cat separated from its family in a mysterious underground city. Explore abandoned streets, interact with robots, solve environmental puzzles, and uncover the history of the forgotten world with the help of a small drone companion. The game focuses on exploration, atmosphere, and discovering its story through the environment.",
+    "discount": "0%",
+    "oldPrice": "$29.99",
+    "newPrice": "$29.99",
+    "category": "adventure",
+    "slug": "stray",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "19",
+    "title": "A Plague Tale: Innocence",
+    "url": "https://store.steampowered.com/app/752590/",
+    "developer": "Asobo Studio",
+    "publisher": "Focus Entertainment",
+    "releaseDate": "05/14/19",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "features": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "A Plague Tale: Innocence follows siblings Amicia and Hugo as they struggle to survive in medieval France during the Hundred Years' War and a devastating plague. Pursued by soldiers and surrounded by enormous swarms of rats, they must rely on stealth, puzzles, and improvised tools. The story focuses on family, survival, and the growing mystery surrounding Hugo.",
+    "discount": "0%",
+    "oldPrice": "$39.99",
+    "newPrice": "$39.99",
+    "category": "adventure",
+    "slug": "a-plague-tale-innocence",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752590/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752590/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "20",
+    "title": "It Takes Two",
+    "url": "https://store.steampowered.com/app/1426210/",
+    "developer": "Hazelight Studios",
+    "publisher": "Electronic Arts",
+    "releaseDate": "03/26/21",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "features": [
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "It Takes Two is a cooperative adventure designed specifically for two players. You and another player control Cody and May, a couple who have been transformed into tiny dolls and must work together to return to normal. Each level introduces new abilities, mechanics, puzzles, and challenges that require communication and cooperation.",
+    "discount": "0%",
+    "oldPrice": "$39.99",
+    "newPrice": "$39.99",
+    "category": "adventure",
+    "slug": "it-takes-two",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "21",
+    "title": "Baldur's Gate 3",
+    "url": "https://store.steampowered.com/app/1086940/",
+    "developer": "Larian Studios",
+    "publisher": "Larian Studios",
+    "releaseDate": "08/03/23",
+    "platform": "Windows",
+    "genres": [
+      "Adventure",
+      "RPG",
+      "Strategy"
+    ],
+    "features": [
+      "Single-player",
+      "Multi-player",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Baldur's Gate 3 is a story-rich role-playing game set in the Dungeons & Dragons universe. Create a character or play as an origin hero, form a party, explore the Forgotten Realms, and make choices that can dramatically affect quests and relationships. Turn-based combat, character builds, dialogue choices, exploration, and multiple possible outcomes give each playthrough its own story.",
+    "discount": "0%",
+    "oldPrice": "$59.99",
+    "newPrice": "$59.99",
+    "category": "rpg",
+    "slug": "baldurs-gate-3",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "22",
+    "title": "Elden Ring",
+    "url": "https://store.steampowered.com/app/1245620/",
+    "developer": "FromSoftware",
+    "publisher": "Bandai Namco Entertainment",
+    "releaseDate": "02/24/22",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "features": [
+      "Single-player",
+      "Online Co-op",
+      "Online PvP",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Elden Ring is an open-world action RPG set in the vast and mysterious Lands Between. Create your own character, discover hidden locations, fight powerful enemies and bosses, and develop your build through weapons, magic, skills, and equipment. The open world allows you to choose your own path, with countless secrets and challenging encounters waiting beyond the main route.",
+    "discount": "0%",
+    "oldPrice": "$59.99",
+    "newPrice": "$59.99",
+    "category": "rpg",
+    "slug": "elden-ring",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "23",
+    "title": "Cyberpunk 2077",
+    "url": "https://store.steampowered.com/app/1091500/",
+    "developer": "CD PROJEKT RED",
+    "publisher": "CD PROJEKT RED",
+    "releaseDate": "12/09/20",
+    "platform": "Windows",
+    "genres": [
+      "RPG"
+    ],
+    "features": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Cyberpunk 2077 is an open-world action RPG set in Night City, a massive metropolis dominated by corporations, gangs, technology, and cybernetic enhancements. You play as V, a mercenary whose life changes after a dangerous job connects them to a powerful digital personality. Customize your character, use weapons and cyberware, complete quests, and make choices that shape V's story.",
+    "discount": "0%",
+    "oldPrice": "$59.99",
+    "newPrice": "$59.99",
+    "category": "rpg",
+    "slug": "cyberpunk-2077",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "24",
+    "title": "Fallout 4",
+    "url": "https://store.steampowered.com/app/377160/",
+    "developer": "Bethesda Game Studios",
+    "publisher": "Bethesda Softworks",
+    "releaseDate": "11/09/15",
+    "platform": "Windows",
+    "genres": [
+      "RPG"
+    ],
+    "features": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Fallout 4 is an open-world RPG set in a post-apocalyptic version of the United States. After emerging from an underground Vault, the player searches for a missing family member while exploring the Commonwealth. Scavenge resources, fight mutated creatures and hostile factions, customize weapons and armor, build settlements, and make choices that influence the world around you.",
+    "discount": "0%",
+    "oldPrice": "$19.99",
+    "newPrice": "$19.99",
+    "category": "rpg",
+    "slug": "fallout-4",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "25",
+    "title": "Monster Hunter: World",
+    "url": "https://store.steampowered.com/app/582010/",
+    "developer": "CAPCOM Co., Ltd.",
+    "publisher": "CAPCOM Co., Ltd.",
+    "releaseDate": "08/09/18",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "features": [
+      "Single-player",
+      "Multi-player",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Monster Hunter: World challenges you to hunt massive creatures across a living ecosystem. Prepare for each hunt by studying your target, selecting the right weapon, crafting equipment, and using the environment to your advantage. Successful hunts provide materials for stronger gear, allowing you to take on increasingly dangerous monsters alone or with other players.",
+    "discount": "0%",
+    "oldPrice": "$29.99",
+    "newPrice": "$29.99",
+    "category": "rpg",
+    "slug": "monster-hunter-world",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "26",
+    "title": "Persona 5 Royal",
+    "url": "https://store.steampowered.com/app/1687950/",
+    "developer": "ATLUS",
+    "publisher": "SEGA",
+    "releaseDate": "10/20/22",
+    "platform": "Windows",
+    "genres": [
+      "RPG"
+    ],
+    "features": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Persona 5 Royal follows a group of high school students who discover the ability to enter a mysterious supernatural realm and change the hearts of corrupt adults. Balance everyday school life, friendships, activities, and personal growth with turn-based battles and dungeon exploration. Royal expands the original adventure with new characters, story content, abilities, and challenges.",
+    "discount": "0%",
+    "oldPrice": "$59.99",
+    "newPrice": "$59.99",
+    "category": "rpg",
+    "slug": "persona-5-royal",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "27",
+    "title": "Divinity: Original Sin 2 - Definitive Edition",
+    "url": "https://store.steampowered.com/app/435150/",
+    "developer": "Larian Studios",
+    "publisher": "Larian Studios",
+    "releaseDate": "09/14/17",
+    "platform": "Windows",
+    "genres": [
+      "RPG",
+      "Strategy"
+    ],
+    "features": [
+      "Single-player",
+      "Multi-player",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Divinity: Original Sin 2 - Definitive Edition is a deep party-based RPG where your choices can change the world and the people around you. Create a character, recruit companions, explore Rivellon, and fight in tactical turn-based battles. The environment can become part of combat through interactions between fire, poison, water, electricity, and other effects, giving you many ways to approach encounters.",
+    "discount": "0%",
+    "oldPrice": "$44.99",
+    "newPrice": "$44.99",
+    "category": "rpg",
+    "slug": "divinity-original-sin-2",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435150/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435150/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "28",
+    "title": "Dragon's Dogma 2",
+    "url": "https://store.steampowered.com/app/2054970/",
+    "developer": "CAPCOM Co., Ltd.",
+    "publisher": "CAPCOM Co., Ltd.",
+    "releaseDate": "03/21/24",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "features": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Dragon's Dogma 2 is an open-world action RPG set in a fantasy world filled with monsters, cities, ruins, and dangerous wilderness. Play as the Arisen and travel with AI-controlled companions known as Pawns. Choose from different vocations, climb giant creatures, experiment with abilities, and explore a world where quests and encounters can unfold in unexpected ways.",
+    "discount": "0%",
+    "oldPrice": "$69.99",
+    "newPrice": "$69.99",
+    "category": "rpg",
+    "slug": "dragons-dogma-2",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "29",
+    "title": "Dark Souls III",
+    "url": "https://store.steampowered.com/app/374320/",
+    "developer": "FromSoftware",
+    "publisher": "Bandai Namco Entertainment",
+    "releaseDate": "04/11/16",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "features": [
+      "Single-player",
+      "Online Co-op",
+      "Online PvP",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Dark Souls III is a challenging action RPG set in a dark fantasy world approaching its final age. Explore interconnected areas filled with hostile creatures, hidden paths, traps, and powerful bosses. Build your character through weapons, armor, spells, and attributes while learning enemy patterns and mastering stamina-based combat.",
+    "discount": "0%",
+    "oldPrice": "$59.99",
+    "newPrice": "$59.99",
+    "category": "rpg",
+    "slug": "darksouls-iii",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "30",
+    "title": "Starfield",
+    "url": "https://store.steampowered.com/app/1716740/",
+    "developer": "Bethesda Game Studios",
+    "publisher": "Bethesda Softworks",
+    "releaseDate": "09/05/23",
+    "platform": "Windows",
+    "genres": [
+      "RPG"
+    ],
+    "features": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Starfield is a space-faring RPG that lets you explore hundreds of planets across a large science-fiction universe. Create your own character, join different factions, customize weapons and equipment, build and modify ships, and travel between worlds. Its quests and exploration allow you to shape your own story among competing interests and mysteries.",
+    "discount": "0%",
+    "oldPrice": "$69.99",
+    "newPrice": "$69.99",
+    "category": "rpg",
+    "slug": "starfield",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1716740/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1716740/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "31",
+    "title": "Resident Evil 2",
+    "url": "https://store.steampowered.com/app/883710/",
+    "developer": "CAPCOM Co., Ltd.",
+    "publisher": "CAPCOM Co., Ltd.",
+    "releaseDate": "01/24/19",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Horror"
+    ],
+    "features": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Resident Evil 2 is a survival horror remake that follows Leon S. Kennedy and Claire Redfield as they become trapped in Raccoon City during a catastrophic outbreak. Explore the ruined police station and surrounding locations, solve puzzles, manage limited resources, and fight terrifying enemies. Different campaigns reveal the outbreak from the perspectives of the two protagonists.",
+    "discount": "0%",
+    "oldPrice": "$39.99",
+    "newPrice": "$39.99",
+    "category": "horror",
+    "slug": "resident-evil-2",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883710/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883710/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "32",
+    "title": "Resident Evil 4",
+    "url": "https://store.steampowered.com/app/2050650/",
+    "developer": "CAPCOM Co., Ltd.",
+    "publisher": "CAPCOM Co., Ltd.",
+    "releaseDate": "03/23/23",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Horror"
+    ],
+    "features": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Resident Evil 4 is a survival horror action game following Leon S. Kennedy on a mission to rescue the president's daughter from a remote European village. The journey leads through hostile settlements, ancient locations, and terrifying encounters. Combine precise shooting, resource management, crafting, exploration, and close-quarters combat while uncovering the larger threat behind the kidnapping.",
+    "discount": "0%",
+    "oldPrice": "$39.99",
+    "newPrice": "$39.99",
+    "category": "horror",
+    "slug": "resident-evil-4",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "33",
+    "title": "Resident Evil 7 Biohazard",
+    "url": "https://store.steampowered.com/app/418370/",
+    "developer": "CAPCOM Co., Ltd.",
+    "publisher": "CAPCOM Co., Ltd.",
+    "releaseDate": "01/23/17",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror"
+    ],
+    "features": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Resident Evil 7 biohazard follows Ethan Winters as he searches for his missing wife in a remote Louisiana plantation. After arriving at an isolated house, Ethan becomes trapped with the terrifying Baker family and a mysterious biological threat. First-person exploration, limited resources, puzzles, combat, and a tense atmosphere create a more intimate survival horror experience.",
+    "discount": "0%",
+    "oldPrice": "$19.99",
+    "newPrice": "$19.99",
+    "category": "horror",
+    "slug": "resident-evil-7-biohazard",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418370/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418370/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "34",
+    "title": "Amnesia: The Dark Descent",
+    "url": "https://store.steampowered.com/app/57300/",
+    "developer": "Frictional Games",
+    "publisher": "Frictional Games",
+    "releaseDate": "09/08/10",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror"
+    ],
+    "features": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Amnesia: The Dark Descent follows Daniel, a man who wakes up in a mysterious castle with no memory of how he arrived there. As he explores the dark halls, he slowly discovers the truth about his past and the events surrounding him. Players must solve puzzles, manage their sanity, and avoid terrifying creatures because direct combat is not the main way to survive.",
+    "discount": "0%",
+    "oldPrice": "$19.99",
+    "newPrice": "$19.99",
+    "category": "horror",
+    "slug": "amnesia-the-dark-descent",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57300/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57300/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "35",
+    "title": "Outlast",
+    "url": "https://store.steampowered.com/app/238320/",
+    "developer": "Red Barrels",
+    "publisher": "Red Barrels",
+    "releaseDate": "09/04/13",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror"
+    ],
+    "features": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Outlast follows investigative journalist Miles Upshur as he enters Mount Massive Asylum after receiving information about disturbing experiments. With no conventional weapons, Miles must use his camera's night vision to navigate dark corridors and document what is happening. Stealth, exploration, hiding, and resource management are essential as hostile patients and other threats hunt him.",
+    "discount": "0%",
+    "oldPrice": "$19.99",
+    "newPrice": "$19.99",
+    "category": "horror",
+    "slug": "outlast",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238320/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238320/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "36",
+    "title": "Alien: Isolation",
+    "url": "https://store.steampowered.com/app/214490/",
+    "developer": "Creative Assembly",
+    "publisher": "SEGA",
+    "releaseDate": "10/06/14",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror"
+    ],
+    "features": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Alien: Isolation places Amanda Ripley aboard a damaged space station where she searches for information about her missing mother. A highly intelligent Xenomorph stalks the station, forcing you to rely on stealth, improvisation, and careful movement rather than direct combat. Explore abandoned facilities, collect resources, craft tools, and survive while the alien constantly adapts to your behavior.",
+    "discount": "0%",
+    "oldPrice": "$39.99",
+    "newPrice": "$39.99",
+    "category": "horror",
+    "slug": "alien-isolation",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214490/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214490/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "37",
+    "title": "SOMA",
+    "url": "https://store.steampowered.com/app/282140/",
+    "developer": "Frictional Games",
+    "publisher": "Frictional Games",
+    "releaseDate": "09/21/15",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror"
+    ],
+    "features": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "SOMA is a psychological science-fiction horror game set in an isolated underwater research facility after a mysterious catastrophe. Explore abandoned stations, uncover recordings and documents, and piece together what happened to the people who lived there. The game focuses heavily on atmosphere, existential questions, and psychological tension while you try to survive the dangers surrounding you.",
+    "discount": "0%",
+    "oldPrice": "$29.99",
+    "newPrice": "$29.99",
+    "category": "horror",
+    "slug": "soma",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282140/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282140/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "38",
+    "title": "The Evil Within",
+    "url": "https://store.steampowered.com/app/268050/",
+    "developer": "Tango Gameworks",
+    "publisher": "Bethesda Softworks",
+    "releaseDate": "10/13/14",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror"
+    ],
+    "features": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "The Evil Within follows detective Sebastian Castellanos after he is pulled into a disturbing world filled with monsters, traps, and distorted environments. As reality becomes increasingly unstable, Sebastian must fight to survive while uncovering the mystery behind the nightmare. Resource management, exploration, stealth, and intense combat create a classic survival horror experience.",
+    "discount": "0%",
+    "oldPrice": "$19.99",
+    "newPrice": "$19.99",
+    "category": "horror",
+    "slug": "the-evil-within",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "39",
+    "title": "Little Nightmares",
+    "url": "https://store.steampowered.com/app/424840/",
+    "developer": "Tarsier Studios",
+    "publisher": "BANDAI NAMCO Entertainment",
+    "releaseDate": "04/28/17",
+    "platform": "Windows",
+    "genres": [
+      "Adventure",
+      "Horror"
+    ],
+    "features": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Little Nightmares is a dark atmospheric adventure that follows Six, a small child trying to escape a strange and terrifying underwater vessel known as the Maw. Explore unsettling environments, solve environmental puzzles, hide from grotesque creatures, and uncover the story through visual details rather than traditional dialogue. Its eerie scale and atmosphere make even simple rooms feel dangerous.",
+    "discount": "0%",
+    "oldPrice": "$19.99",
+    "newPrice": "$19.99",
+    "category": "horror",
+    "slug": "little-nightmares",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424840/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424840/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "40",
+    "title": "Phasmophobia",
+    "url": "https://store.steampowered.com/app/739630/",
+    "developer": "Kinetic Games",
+    "publisher": "Kinetic Games",
+    "releaseDate": "09/18/20",
+    "platform": "Windows",
+    "genres": [
+      "Horror",
+      "Online Co-Op"
+    ],
+    "features": [
+      "Single-player",
+      "Multi-player",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Phasmophobia is a four-player online cooperative psychological horror game about investigating haunted locations. As paranormal investigators, you use equipment such as EMF readers, spirit boxes, cameras, and other tools to identify the type of ghost present. Communication and teamwork are crucial, especially when the ghost becomes hostile and begins hunting the players.",
+    "discount": "0%",
+    "oldPrice": "$19.99",
+    "newPrice": "$19.99",
+    "category": "horror",
+    "slug": "phasmophobia",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "41",
+    "title": "Civilization VI",
+    "url": "https://store.steampowered.com/app/289070/",
+    "developer": "Firaxis Games",
+    "publisher": "2K",
+    "releaseDate": "10/20/16",
+    "platform": "Windows",
+    "genres": [
+      "Strategy"
+    ],
+    "features": [
+      "Single-player",
+      "Multi-player",
+      "Online PvP",
+      "Steam Achievements",
+      "Steam Cloud"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Sid Meier's Civilization VI is a turn-based strategy game where you build and lead a civilization from its earliest settlements into the modern era and beyond. Develop cities, research technologies and civics, manage resources, negotiate with other civilizations, and wage wars when necessary. Different leaders and victory conditions encourage a wide variety of strategies and playstyles.",
+    "discount": "0%",
+    "oldPrice": "$59.99",
+    "newPrice": "$59.99",
+    "category": "strategy",
+    "slug": "sid-meiers-civilization-vi",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "42",
+    "title": "Age of Empires IV",
+    "url": "https://store.steampowered.com/app/1466860/",
+    "developer": "Relic Entertainment",
+    "publisher": "Xbox Game Studios",
+    "releaseDate": "10/28/21",
+    "platform": "Windows",
+    "genres": [
+      "Strategy"
+    ],
+    "features": [
+      "Single-player",
+      "Multi-player",
+      "Online PvP",
+      "Steam Achievements",
+      "Steam Cloud"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Age of Empires IV is a real-time strategy game focused on building civilizations, gathering resources, developing technology, and commanding armies through major historical conflicts. Choose from distinct civilizations with unique units and mechanics, expand your territory, defend your economy, and adapt your strategy to the actions of your opponents.",
+    "discount": "0%",
+    "oldPrice": "$39.99",
+    "newPrice": "$39.99",
+    "category": "strategy",
+    "slug": "age-of-empires-iv",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "43",
+    "title": "Total War: WARHAMMER III",
+    "url": "https://store.steampowered.com/app/1142710/",
+    "developer": "Creative Assembly",
+    "publisher": "SEGA",
+    "releaseDate": "02/16/22",
+    "platform": "Windows",
+    "genres": [
+      "Strategy"
+    ],
+    "features": [
+      "Single-player",
+      "Multi-player",
+      "Online PvP",
+      "Steam Achievements",
+      "Steam Cloud"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Total War: WARHAMMER III combines turn-based empire management with large real-time battles in the Warhammer Fantasy universe. Lead powerful factions, expand territories, manage armies and settlements, and fight massive battles involving monsters, magic, and specialized units. The campaign offers different objectives and faction mechanics that make each playthrough distinct.",
+    "discount": "0%",
+    "oldPrice": "$59.99",
+    "newPrice": "$59.99",
+    "category": "strategy",
+    "slug": "total-war-warhammer-iii",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142710/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142710/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "44",
+    "title": "XCOM 2",
+    "url": "https://store.steampowered.com/app/268500/",
+    "developer": "Firaxis Games",
+    "publisher": "2K",
+    "releaseDate": "02/04/16",
+    "platform": "Windows",
+    "genres": [
+      "Strategy"
+    ],
+    "features": [
+      "Single-player",
+      "Multi-player",
+      "Online PvP",
+      "Steam Achievements",
+      "Steam Cloud"
+    ],
+    "playerRating": "Very Positive",
+    "description": "XCOM 2 is a turn-based tactical strategy game in which humanity fights to reclaim Earth from an alien-controlled regime. Command a squad of soldiers, customize their abilities and equipment, research new technology, and manage the Avenger base. Soldiers can permanently die, so careful positioning, planning, and difficult decisions are essential during missions.",
+    "discount": "0%",
+    "oldPrice": "$49.99",
+    "newPrice": "$49.99",
+    "category": "strategy",
+    "slug": "xcom-2",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "45",
+    "title": "Stellaris",
+    "url": "https://store.steampowered.com/app/281990/",
+    "developer": "Paradox Development Studio",
+    "publisher": "Paradox Interactive",
+    "releaseDate": "05/09/16",
+    "platform": "Windows",
+    "genres": [
+      "Strategy"
+    ],
+    "features": [
+      "Single-player",
+      "Multi-player",
+      "Online PvP",
+      "Steam Achievements",
+      "Steam Cloud"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Stellaris is a grand strategy game set in a vast galaxy where you create and lead your own space-faring civilization. Explore unknown systems, establish colonies, research technologies, manage resources, form alliances, and fight rival empires. You can define your species, government, ethics, and long-term goals, creating a different galactic story in every campaign.",
+    "discount": "0%",
+    "oldPrice": "$39.99",
+    "newPrice": "$39.99",
+    "category": "strategy",
+    "slug": "stellaris",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "46",
+    "title": "Hearts of Iron IV",
+    "url": "https://store.steampowered.com/app/394360/",
+    "developer": "Paradox Development Studio",
+    "publisher": "Paradox Interactive",
+    "releaseDate": "06/06/16",
+    "platform": "Windows",
+    "genres": [
+      "Strategy"
+    ],
+    "features": [
+      "Single-player",
+      "Multi-player",
+      "Online PvP",
+      "Steam Achievements",
+      "Steam Cloud"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Hearts of Iron IV is a grand strategy game set during the turbulent years surrounding World War II. Choose a nation, guide its political direction, build industry, research technologies, organize armies, and manage diplomacy while preparing for global conflict. Military planning and logistics play a major role as you try to reshape the course of history.",
+    "discount": "0%",
+    "oldPrice": "$49.99",
+    "newPrice": "$49.99",
+    "category": "strategy",
+    "slug": "hearts-of-iron-iv",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "47",
+    "title": "Cities: Skylines",
+    "url": "https://store.steampowered.com/app/255710/",
+    "developer": "Colossal Order Ltd.",
+    "publisher": "Paradox Interactive",
+    "releaseDate": "03/10/15",
+    "platform": "Windows",
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "features": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Cities: Skylines is a city-building simulation where you design and manage your own growing metropolis. Plan roads and districts, provide electricity and water, build public services, manage traffic, and respond to the needs of your citizens. As the city expands, balancing finances, infrastructure, pollution, transport, and happiness becomes increasingly important.",
+    "discount": "0%",
+    "oldPrice": "$29.99",
+    "newPrice": "$29.99",
+    "category": "strategy",
+    "slug": "cities-skylines",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "48",
+    "title": "Age of Empires II: Definitive Edition",
+    "url": "https://store.steampowered.com/app/813780/",
+    "developer": "Forgotten Empires",
+    "publisher": "Xbox Game Studios",
+    "releaseDate": "11/14/19",
+    "platform": "Windows",
+    "genres": [
+      "Strategy"
+    ],
+    "features": [
+      "Single-player",
+      "Multi-player",
+      "Online PvP",
+      "Steam Achievements",
+      "Steam Cloud"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Age of Empires II: Definitive Edition is a real-time strategy classic rebuilt with enhanced visuals and extensive content. Choose from numerous civilizations, gather resources, advance through historical ages, build economies, and command armies in campaigns or competitive matches. Different civilizations have unique units and bonuses, encouraging players to develop specialized strategies.",
+    "discount": "0%",
+    "oldPrice": "$19.99",
+    "newPrice": "$19.99",
+    "category": "strategy",
+    "slug": "age-of-empires-ii-definitive-edition",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "49",
+    "title": "Company of Heroes 2",
+    "url": "https://store.steampowered.com/app/231430/",
+    "developer": "Relic Entertainment",
+    "publisher": "SEGA",
+    "releaseDate": "06/24/13",
+    "platform": "Windows",
+    "genres": [
+      "Strategy"
+    ],
+    "features": [
+      "Single-player",
+      "Multi-player",
+      "Online PvP",
+      "Steam Achievements",
+      "Steam Cloud"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Company of Heroes 2 is a real-time strategy game focused on tactical World War II combat. Command infantry, tanks, and support units while using cover, terrain, suppression, and line of sight to gain an advantage. The campaign and multiplayer battles emphasize battlefield positioning and resource control rather than simply producing the largest army.",
+    "discount": "0%",
+    "oldPrice": "$19.99",
+    "newPrice": "$19.99",
+    "category": "strategy",
+    "slug": "company-of-heroes-2",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231430/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231430/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "50",
+    "title": "Into the Breach",
+    "url": "https://store.steampowered.com/app/590380/",
+    "developer": "Subset Games",
+    "publisher": "Subset Games",
+    "releaseDate": "02/27/18",
+    "platform": "Windows",
+    "genres": [
+      "Strategy"
+    ],
+    "features": [
+      "Single-player",
+      "Multi-player",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Cloud"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Into the Breach is a turn-based strategy game where small squads of powerful mechs defend humanity's cities from giant creatures known as the Vek. Every enemy action is shown in advance, allowing you to plan precise responses and prevent damage. Different mech squads, pilots, upgrades, and challenging objectives make each short campaign highly tactical.",
+    "discount": "0%",
+    "oldPrice": "$14.99",
+    "newPrice": "$14.99",
+    "category": "strategy",
+    "slug": "into-the-breach",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590380/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590380/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "51",
+    "title": "Forza Horizon 5",
+    "url": "https://store.steampowered.com/app/1551360/",
+    "developer": "Playground Games",
+    "publisher": "Xbox Game Studios",
+    "releaseDate": "11/08/21",
+    "platform": "Windows",
+    "genres": [
+      "Racing",
+      "Sports"
+    ],
+    "features": [
+      "Single-player",
+      "Multi-player",
+      "Online PvP",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Forza Horizon 5 is an open-world racing game set across a large and varied representation of Mexico. Drive hundreds of cars through deserts, cities, jungles, mountains, and coastal roads while taking part in races, challenges, stunts, and seasonal events. Customize vehicles and explore the world freely in solo or multiplayer activities.",
+    "discount": "0%",
+    "oldPrice": "$59.99",
+    "newPrice": "$59.99",
+    "category": "racing-sports",
+    "slug": "forza-horizon-5",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "52",
+    "title": "Forza Horizon 4",
+    "url": "https://store.steampowered.com/app/1293830/",
+    "developer": "Playground Games",
+    "publisher": "Xbox Game Studios",
+    "releaseDate": "03/09/21",
+    "platform": "Windows",
+    "genres": [
+      "Racing",
+      "Sports"
+    ],
+    "features": [
+      "Single-player",
+      "Multi-player",
+      "Online PvP",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Forza Horizon 4 is an open-world racing game set in a detailed version of Great Britain. Race through countryside, towns, cities, and changing weather while collecting and customizing a large variety of cars. Dynamic seasons transform the roads and driving conditions, while online events and challenges provide a constantly changing racing experience.",
+    "discount": "0%",
+    "oldPrice": "$59.99",
+    "newPrice": "$59.99",
+    "category": "racing-sports",
+    "slug": "forza-horizon-4",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293830/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293830/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "53",
+    "title": "Euro Truck Simulator 2",
+    "url": "https://store.steampowered.com/app/227300/",
+    "developer": "SCS Software",
+    "publisher": "SCS Software",
+    "releaseDate": "10/18/12",
+    "platform": "Windows",
+    "genres": [
+      "Indie",
+      "Simulation"
+    ],
+    "features": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Euro Truck Simulator 2 lets you build a trucking business across a large network of European roads and cities. Deliver cargo, earn money, purchase and customize trucks, expand your company, and manage your growing fleet. Realistic driving, navigation, traffic, weather, and long-distance routes create a relaxed but detailed simulation experience.",
+    "discount": "0%",
+    "oldPrice": "$19.99",
+    "newPrice": "$19.99",
+    "category": "racing-sports",
+    "slug": "euro-truck-simulator-2",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "54",
+    "title": "Assetto Corsa",
+    "url": "https://store.steampowered.com/app/244210/",
+    "developer": "Kunos Simulazioni",
+    "publisher": "Kunos Simulazioni",
+    "releaseDate": "12/19/14",
+    "platform": "Windows",
+    "genres": [
+      "Racing",
+      "Simulation",
+      "Sports"
+    ],
+    "features": [
+      "Single-player",
+      "Multi-player",
+      "Online PvP",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Assetto Corsa is a realistic racing simulator designed around accurate driving physics and detailed vehicle behavior. Race a wide selection of licensed cars on laser-scanned and carefully modeled circuits while adjusting setups to suit different driving conditions. Its focus on physics, tire behavior, braking, and racing lines makes it popular with simulation enthusiasts.",
+    "discount": "0%",
+    "oldPrice": "$19.99",
+    "newPrice": "$19.99",
+    "category": "racing-sports",
+    "slug": "assetto-corsa",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244210/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244210/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "55",
+    "title": "F1 24",
+    "url": "https://store.steampowered.com/app/2488620/",
+    "developer": "Codemasters",
+    "publisher": "Electronic Arts",
+    "releaseDate": "05/31/24",
+    "platform": "Windows",
+    "genres": [
+      "Racing",
+      "Sports"
+    ],
+    "features": [
+      "Single-player",
+      "Multi-player",
+      "Online PvP",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "F1 24 is an official Formula 1 racing game featuring the current F1 and F2 experience with licensed teams, drivers, and circuits. Take control of a driver career, compete in Grand Prix events, develop your performance, and adjust car setups for different tracks. Multiplayer and competitive modes provide additional ways to race against other players.",
+    "discount": "0%",
+    "oldPrice": "$69.99",
+    "newPrice": "$69.99",
+    "category": "racing-sports",
+    "slug": "f1-24",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488620/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488620/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "56",
+    "title": "EA SPORTS FC 25",
+    "url": "https://store.steampowered.com/app/2669320/",
+    "developer": "EA Canada",
+    "publisher": "Electronic Arts",
+    "releaseDate": "09/26/24",
+    "platform": "Windows",
+    "genres": [
+      "Simulation",
+      "Sports"
+    ],
+    "features": [
+      "Single-player",
+      "Multi-player",
+      "Online PvP",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "EA SPORTS FC 25 is a football simulation featuring licensed clubs, players, competitions, and multiple ways to play. Build and manage your Ultimate Team, create a career as a player or manager, and compete in online and offline matches. Updated gameplay systems and tactical options give you more control over how your team attacks and defends.",
+    "discount": "0%",
+    "oldPrice": "$69.99",
+    "newPrice": "$69.99",
+    "category": "racing-sports",
+    "slug": "ea-sports-fc-25",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669320/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669320/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "57",
+    "title": "TEKKEN 8",
+    "url": "https://store.steampowered.com/app/1778820/",
+    "developer": "Bandai Namco Studios Inc.",
+    "publisher": "Bandai Namco Entertainment",
+    "releaseDate": "01/25/24",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Sports"
+    ],
+    "features": [
+      "Single-player",
+      "Multi-player",
+      "Online PvP",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "TEKKEN 8 continues the legendary fighting series with a focus on aggressive combat and cinematic presentation. Choose from a roster of fighters, learn their unique moves and combos, and compete in story, arcade, online, and competitive modes. The Heat system adds new offensive options and encourages players to maintain pressure during fights.",
+    "discount": "0%",
+    "oldPrice": "$49.99",
+    "newPrice": "$49.99",
+    "category": "racing-sports",
+    "slug": "tekken-8",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "58",
+    "title": "WWE 2K24",
+    "url": "https://store.steampowered.com/app/2315690/",
+    "developer": "Visual Concepts",
+    "publisher": "2K",
+    "releaseDate": "03/07/24",
+    "platform": "Windows",
+    "genres": [
+      "Simulation",
+      "Sports"
+    ],
+    "features": [
+      "Single-player",
+      "Multi-player",
+      "Online PvP",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "WWE 2K24 brings the spectacle of WWE into a detailed wrestling simulation with a large roster of current and legendary superstars. Compete in different match types, relive memorable moments, create wrestlers and arenas, and build your own career. Multiple game modes provide both single-player and multiplayer wrestling experiences.",
+    "discount": "0%",
+    "oldPrice": "$59.99",
+    "newPrice": "$59.99",
+    "category": "racing-sports",
+    "slug": "wwe-2k24",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2315690/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2315690/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "59",
+    "title": "NBA 2K25",
+    "url": "https://store.steampowered.com/app/2878980/",
+    "developer": "Visual Concepts",
+    "publisher": "2K",
+    "releaseDate": "09/06/24",
+    "platform": "Windows",
+    "genres": [
+      "Simulation",
+      "Sports"
+    ],
+    "features": [
+      "Single-player",
+      "Multi-player",
+      "Online PvP",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "NBA 2K25 is a basketball simulation featuring NBA teams, players, arenas, and a variety of game modes. Build your MyPLAYER, develop your career, manage a team, or compete online against other players. Improved movement, shooting, presentation, and team systems aim to deliver a detailed basketball experience.",
+    "discount": "0%",
+    "oldPrice": "$59.99",
+    "newPrice": "$59.99",
+    "category": "racing-sports",
+    "slug": "nba-2k25",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878980/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878980/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "60",
+    "title": "Tony Hawk's Pro Skater 1 + 2",
+    "url": "https://store.steampowered.com/app/2395210/",
+    "developer": "Iron Galaxy Studios",
+    "publisher": "Activision",
+    "releaseDate": "09/03/20",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Sports"
+    ],
+    "features": [
+      "Single-player",
+      "Multi-player",
+      "Online PvP",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Tony Hawk's Pro Skater 1 + 2 combines remastered versions of two classic skateboarding games into one package. Play as legendary skaters, perform manuals, grinds, flips, and massive combos across iconic skate parks. Complete goals and challenges, unlock boards and gear, create custom parks, and compete through multiple single-player and multiplayer modes.",
+    "discount": "0%",
+    "oldPrice": "$49.99",
+    "newPrice": "$49.99",
+    "category": "racing-sports",
+    "slug": "tony-hawks-pro-skater-1-2",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2395210/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2395210/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "61",
+    "title": "Red Dead Redemption 2",
+    "url": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/",
+    "developer": "Rockstar Games",
+    "publisher": "Rockstar Games",
+    "releaseDate": "12/05/19",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "features": [
+      "Single-player",
+      "Multi-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Red Dead Redemption 2 is an expansive open-world western set in America at the end of the 19th century. You play as Arthur Morgan, a senior member of the Van der Linde gang, as the group struggles to survive while lawmen, rival gangs, and a changing society close in around them. Explore a living frontier, take part in robberies and shootouts, hunt and fish, care for your horse, interact with towns and strangers, and make choices that influence Arthur's relationships and journey.",
+    "discount": "0%",
+    "oldPrice": "$59.99",
+    "newPrice": "$59.99",
+    "category": "story",
+    "slug": "red-dead-redemption-2",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "62",
+    "title": "The Last of Us™ Part I",
+    "url": "https://store.steampowered.com/app/1888930/The_Last_of_Us_Part_I/",
+    "developer": "Naughty Dog LLC",
+    "publisher": "PlayStation Publishing LLC",
+    "releaseDate": "03/28/23",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "features": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "The Last of Us Part I is a rebuilt version of Naughty Dog's acclaimed post-apocalyptic adventure. The story follows Joel, a hardened survivor, and Ellie, a teenage girl who may hold the key to humanity's future, as they travel across a dangerous United States. Explore abandoned locations, scavenge for supplies, craft equipment, use stealth, and fight infected and hostile survivors while experiencing a character-driven story about survival, loss, and human connection.",
+    "discount": "0%",
+    "oldPrice": "$59.99",
+    "newPrice": "$59.99",
+    "category": "story",
+    "slug": "the-last-of-us-part-i",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888930/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888930/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "63",
+    "title": "God of War",
+    "url": "https://store.steampowered.com/app/1593500/God_of_War/",
+    "developer": "Santa Monica Studio",
+    "publisher": "PlayStation Publishing LLC",
+    "releaseDate": "01/14/22",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "features": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "God of War follows Kratos and his young son Atreus as they travel through the Norse realms to fulfill the final wish of Kratos' late wife. Their journey brings them into conflict with gods, monsters, and ancient forces while father and son gradually learn more about each other and their past. Explore dangerous environments, solve environmental puzzles, upgrade weapons and abilities, and master close-range combat with the Leviathan Axe and other tools.",
+    "discount": "0%",
+    "oldPrice": "$49.99",
+    "newPrice": "$49.99",
+    "category": "story",
+    "slug": "god-of-war",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "64",
+    "title": "Marvel’s Spider-Man Remastered",
+    "url": "https://store.steampowered.com/app/1817070/Marvels_SpiderMan_Remastered/",
+    "developer": "Insomniac Games, Nixxes Software",
+    "publisher": "PlayStation Publishing LLC",
+    "releaseDate": "08/12/22",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "features": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Marvel's Spider-Man Remastered puts you in the role of Peter Parker as he balances life as an ordinary person with the responsibilities of Spider-Man. Swing freely across a detailed New York City, fight criminals using acrobatic combat and web gadgets, solve crimes, complete story missions, and discover side activities throughout the city. The original story brings together familiar heroes and villains while focusing on Peter's personal life and responsibilities.",
+    "discount": "0%",
+    "oldPrice": "$59.99",
+    "newPrice": "$59.99",
+    "category": "story",
+    "slug": "marvels-spider-man-remastered",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "65",
+    "title": "UNCHARTED™: Legacy of Thieves Collection",
+    "url": "https://store.steampowered.com/app/1659420/UNCHARTED_Legacy_of_Thieves_Collection/",
+    "developer": "Naughty Dog LLC, Iron Galaxy Studios",
+    "publisher": "PlayStation Publishing LLC",
+    "releaseDate": "10/19/22",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "features": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "UNCHARTED: Legacy of Thieves Collection brings together two cinematic action adventures starring Nathan Drake and Chloe Frazer. Travel across exotic locations, uncover ancient mysteries, solve environmental puzzles, climb dangerous ruins, and engage in intense gunfights and vehicle sequences. The collection combines treasure hunting, exploration, character-driven storytelling, and large cinematic set pieces into a fast-paced adventure.",
+    "discount": "0%",
+    "oldPrice": "$49.99",
+    "newPrice": "$49.99",
+    "category": "story",
+    "slug": "uncharted-legacy-of-thieves-collection",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659420/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659420/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "66",
+    "title": "Detroit: Become Human",
+    "url": "https://store.steampowered.com/app/1222140/Detroit_Become_Human/",
+    "developer": "Quantic Dream",
+    "publisher": "Quantic Dream",
+    "releaseDate": "12/12/19",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "features": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Detroit: Become Human is a narrative adventure set in a near-future Detroit where advanced androids have become part of everyday life. You follow several characters whose lives become connected as questions about freedom, identity, and humanity grow increasingly important. Your choices can change relationships, unlock different scenes, determine who survives, and lead the story toward very different outcomes.",
+    "discount": "0%",
+    "oldPrice": "$39.99",
+    "newPrice": "$39.99",
+    "category": "story",
+    "slug": "detroit-become-human",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "67",
+    "title": "Mafia: Definitive Edition",
+    "url": "https://store.steampowered.com/app/1030840/Mafia_Definitive_Edition/",
+    "developer": "Hangar 13",
+    "publisher": "2K",
+    "releaseDate": "09/25/20",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "features": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Mafia: Definitive Edition is a complete remake of the classic crime story set in the fictional city of Lost Heaven during the Prohibition era. You play as Tommy Angelo, a taxi driver who becomes involved with the Salieri crime family and gradually rises through the ranks. Follow a cinematic story filled with organized crime, rival gangs, dangerous jobs, driving, shootouts, and difficult choices.",
+    "discount": "0%",
+    "oldPrice": "$39.99",
+    "newPrice": "$39.99",
+    "category": "story",
+    "slug": "mafia-definitive-edition",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "68",
+    "title": "A Plague Tale: Requiem",
+    "url": "https://store.steampowered.com/app/1182900/A_Plague_Tale_Requiem/",
+    "developer": "Asobo Studio",
+    "publisher": "Focus Entertainment",
+    "releaseDate": "10/17/22",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "features": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "A Plague Tale: Requiem continues the story of Amicia and Hugo as they travel through a beautiful but brutal medieval world searching for a new home and a possible cure for Hugo's mysterious condition. Stealth, crafting, exploration, and combat are combined with the constant threat of soldiers and deadly swarms of rats. The journey explores the bond between the siblings and the heavy cost of protecting someone you love.",
+    "discount": "0%",
+    "oldPrice": "$49.99",
+    "newPrice": "$49.99",
+    "category": "story",
+    "slug": "a-plague-tale-requiem",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182900/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182900/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "69",
+    "title": "Ghost of Tsushima DIRECTOR'S CUT",
+    "url": "https://store.steampowered.com/app/2215430/Ghost_of_Tsushima_DIRECTORS_CUT/",
+    "developer": "Nixxes Software, Sucker Punch Productions",
+    "publisher": "PlayStation Publishing LLC",
+    "releaseDate": "05/16/24",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "features": [
+      "Single-player",
+      "Multi-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Ghost of Tsushima DIRECTOR'S CUT is an open-world action adventure set during the Mongol invasion of Tsushima in 1274. You play as Jin Sakai, a samurai who must defend his homeland while adapting his traditional code to survive a powerful enemy. Explore the island, master katana combat, archery, and stealth, discover side stories, customize your abilities, and develop your own approach to becoming the Ghost.",
+    "discount": "0%",
+    "oldPrice": "$59.99",
+    "newPrice": "$59.99",
+    "category": "story",
+    "slug": "ghost-of-tsushima-directors-cut",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/capsule_231x87.jpg",
+    "images": []
+  },
+  {
+    "id": "70",
+    "title": "Days Gone",
+    "url": "https://store.steampowered.com/app/1259420/Days_Gone/",
+    "developer": "Bend Studio",
+    "publisher": "PlayStation Publishing LLC",
+    "releaseDate": "05/17/21",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "features": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Full Controller Support"
+    ],
+    "playerRating": "Very Positive",
+    "description": "Days Gone is an open-world action adventure set in a post-apocalyptic Pacific Northwest overrun by dangerous Freakers. You play as Deacon St. John, a drifter and bounty hunter traveling on his motorcycle while searching for answers about the woman he lost. Explore forests, settlements, and abandoned locations, fight human enemies and massive Freaker hordes, upgrade your bike and weapons, and uncover Deacon's story as he searches for a reason to keep going.",
+    "discount": "0%",
+    "oldPrice": "$49.99",
+    "newPrice": "$49.99",
+    "category": "story",
+    "slug": "days-gone",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/capsule_231x87.jpg",
+    "images": []
+  }
+]
