@@ -19,7 +19,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "For over two decades, Counter-Strike has offered an elite competitive experience, one shaped by millions of players from across the globe. And now the next chapter in the CS story is about to begin. This is Counter-Strike 2. A free upgrade to CS:GO, Counter-Strike 2 marks the largest technical leap in Counter-Strike’s history. Built on the Source 2 engine, Counter-Strike 2 is modernized with realistic physically-based rendering, state of the art networking, and upgraded Community Workshop tools.",
+    "description": "For over two decades, Counter-Strike has offered an elite competitive experience, one shaped by millions of players from across the globe. And now the next chapter in the CS story is about to begin. This is Counter-Strike 2. A free upgrade to CS:GO, Counter-Strike 2 marks the largest technical leap in Counter-Strike’s history. Built on the Source 2 engine, Counter-Strike 2 is modernized with realistic physically-based rendering, state of the art networking, and upgraded Community Workshop tools. The gameplay combines its core mechanics with progression and exploration to keep each session engaging. Different challenges and situations encourage players to adapt their approach as they play.",
     "discount": "0%",
     "oldPrice": "Free",
     "newPrice": "Free",
@@ -27,7 +27,22 @@
     "slug": "counter-strike-2",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Portuguese",
+      "Polish",
+      "Simplified Chinese",
+      "Japanese",
+      "Korean",
+      "Turkish"
+    ],
+    "aboutGame": "This is a competitive first-person shooter played in team-based rounds. Teamwork, accurate aiming, map knowledge, and tactical decisions are essential. Fast reactions and adapting to the enemy team are key to winning."
   },
   {
     "id": "2",
@@ -49,7 +64,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Dota 2 is a free-to-play multiplayer online battle arena where two teams of five heroes compete to destroy the enemy Ancient. Choose from a huge roster of unique heroes, master powerful abilities, and work with your team to control the battlefield. Every match offers a different challenge through strategy, item choices, positioning, and teamwork.",
+    "description": "Dota 2 is a free-to-play multiplayer online battle arena where two teams of five heroes compete to destroy the enemy Ancient. Choose from a huge roster of unique heroes, master powerful abilities, and work with your team to control the battlefield. Every match offers a different challenge through strategy, item choices, positioning, and teamwork. The gameplay combines its core mechanics with progression and exploration to keep each session engaging. Different challenges and situations encourage players to adapt their approach as they play.",
     "discount": "0%",
     "oldPrice": "Free",
     "newPrice": "Free",
@@ -57,7 +72,22 @@
     "slug": "dota-2",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Portuguese",
+      "Polish",
+      "Simplified Chinese",
+      "Traditional Chinese",
+      "Japanese",
+      "Korean"
+    ],
+    "aboutGame": "This is a multiplayer MOBA where two teams fight to destroy each other's Ancient. Each hero has unique abilities and roles, making teamwork and strategy essential. Players manage items, positioning, abilities, and objectives throughout each match."
   },
   {
     "id": "3",
@@ -80,7 +110,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Grand Theft Auto V tells the story of three criminals whose lives become connected through a series of dangerous heists in Los Santos and Blaine County. Explore a huge open world, switch between Michael, Franklin, and Trevor, complete missions, drive vehicles, and take part in countless activities. The game also includes GTA Online, where players can build their own criminal empire with friends.",
+    "description": "Grand Theft Auto V tells the story of three criminals whose lives become connected through a series of dangerous heists in Los Santos and Blaine County. Explore a huge open world, switch between Michael, Franklin, and Trevor, complete missions, drive vehicles, and take part in countless activities. The game also includes GTA Online, where players can build their own criminal empire with friends. The world encourages exploration and rewards players who take time to investigate optional locations and activities. A mix of action, discovery, and narrative keeps the experience varied.",
     "discount": "50%",
     "oldPrice": "$29.99",
     "newPrice": "$14.99",
@@ -88,7 +118,22 @@
     "slug": "grand-theft-auto-v",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Portuguese",
+      "Polish",
+      "Japanese",
+      "Korean",
+      "Simplified Chinese",
+      "Traditional Chinese"
+    ],
+    "aboutGame": "This is an open-world action-adventure game set in Los Santos and Blaine County. You can complete missions, drive vehicles, take part in activities, and freely explore the world. It also includes GTA Online with a large multiplayer experience."
   },
   {
     "id": "4",
@@ -109,7 +154,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "DOOM Eternal puts you in the role of the Slayer as he fights through an invasion of Earth by demonic forces. Use an arsenal of powerful weapons, brutal glory kills, the chainsaw, and fast movement abilities to stay alive. Aggressive combat, vertical arenas, challenging enemies, and constant resource management make every battle intense.",
+    "description": "DOOM Eternal puts you in the role of the Slayer as he fights through an invasion of Earth by demonic forces. Use an arsenal of powerful weapons, brutal glory kills, the chainsaw, and fast movement abilities to stay alive. Aggressive combat, vertical arenas, challenging enemies, and constant resource management make every battle intense. The gameplay combines its core mechanics with progression and exploration to keep each session engaging. Different challenges and situations encourage players to adapt their approach as they play.",
     "discount": "0%",
     "oldPrice": "$39.99",
     "newPrice": "$39.99",
@@ -117,7 +162,20 @@
     "slug": "doom-eternal",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782330/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782330/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Polish",
+      "Portuguese",
+      "Simplified Chinese",
+      "Japanese"
+    ],
+    "aboutGame": "This is a fast-paced first-person shooter focused on aggressive demon combat. Movement, weapon switching, resource management, and brutal finishers are important during fights. The game is known for intense arenas, powerful enemies, and a high skill ceiling."
   },
   {
     "id": "5",
@@ -138,7 +196,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Hades is a fast-paced action roguelike in which Zagreus, the son of Hades, attempts to escape the Underworld and reach the surface. Battle through constantly changing chambers filled with enemies and powerful bosses while combining weapons, Boons, and upgrades. Each failed attempt reveals more of the story and relationships of the characters around you.",
+    "description": "Hades is a fast-paced action roguelike in which Zagreus, the son of Hades, attempts to escape the Underworld and reach the surface. Battle through constantly changing chambers filled with enemies and powerful bosses while combining weapons, Boons, and upgrades. Each failed attempt reveals more of the story and relationships of the characters around you. Character progression gives you several ways to improve your abilities and adapt your playstyle. Exploration and optional activities also add depth beyond the main storyline.",
     "discount": "0%",
     "oldPrice": "$24.99",
     "newPrice": "$24.99",
@@ -146,7 +204,20 @@
     "slug": "hades",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Spanish",
+      "Italian",
+      "Russian",
+      "Portuguese",
+      "Simplified Chinese",
+      "Japanese",
+      "Korean"
+    ],
+    "aboutGame": "This is a fast-paced action roguelike with RPG elements. Each escape attempt combines different weapons, upgrades, and abilities while the rooms and encounters change. Even failed attempts progress the story and unlock new possibilities."
   },
   {
     "id": "6",
@@ -165,7 +236,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Devil May Cry 5 is a stylish action game following Nero, Dante, and V as they battle a demonic threat consuming Red Grave City. Each character has a distinct combat style, weapons, and abilities, allowing you to chain attacks into spectacular combos. Master timing, movement, and enemy variety to achieve higher style rankings.",
+    "description": "Devil May Cry 5 is a stylish action game following Nero, Dante, and V as they battle a demonic threat consuming Red Grave City. Each character has a distinct combat style, weapons, and abilities, allowing you to chain attacks into spectacular combos. Master timing, movement, and enemy variety to achieve higher style rankings. The gameplay combines its core mechanics with progression and exploration to keep each session engaging. Different challenges and situations encourage players to adapt their approach as they play.",
     "discount": "0%",
     "oldPrice": "$29.99",
     "newPrice": "$29.99",
@@ -173,7 +244,21 @@
     "slug": "devil-may-cry-5",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601150/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601150/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Polish",
+      "Portuguese",
+      "Japanese",
+      "Simplified Chinese",
+      "Traditional Chinese"
+    ],
+    "aboutGame": "This is a stylish action game built around fast combat and complex combos. Dante, Nero, and V each have different weapons, abilities, and fighting styles. Mastering timing, movement, and combo chains lets you achieve higher style rankings."
   },
   {
     "id": "7",
@@ -193,7 +278,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Sekiro: Shadows Die Twice follows a shinobi known as the Wolf as he protects his young lord in a war-torn version of Sengoku-era Japan. Combat focuses on precise swordplay, parrying, posture, stealth, and decisive attacks rather than traditional character builds. Explore dangerous environments, uncover secrets, and face demanding bosses where learning enemy patterns is essential.",
+    "description": "Sekiro: Shadows Die Twice follows a shinobi known as the Wolf as he protects his young lord in a war-torn version of Sengoku-era Japan. Combat focuses on precise swordplay, parrying, posture, stealth, and decisive attacks rather than traditional character builds. Explore dangerous environments, uncover secrets, and face demanding bosses where learning enemy patterns is essential. The world encourages exploration and rewards players who take time to investigate optional locations and activities. A mix of action, discovery, and narrative keeps the experience varied.",
     "discount": "0%",
     "oldPrice": "$59.99",
     "newPrice": "$59.99",
@@ -201,7 +286,20 @@
     "slug": "sekiro-shadows-die-twice",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Polish",
+      "Portuguese",
+      "Japanese",
+      "Simplified Chinese"
+    ],
+    "aboutGame": "This is a challenging action-adventure game centered on precise sword combat. Parrying attacks, breaking enemy posture, stealth, and learning attack patterns are crucial. Exploration and difficult boss fights make careful timing and patience very important."
   },
   {
     "id": "8",
@@ -222,7 +320,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Batman: Arkham Knight puts you behind the mask of Batman as he faces the mysterious Arkham Knight and a group of dangerous villains in Gotham City. Patrol a large open world using Batman's gadgets, detective skills, and combat abilities, while the Batmobile adds new traversal and combat options. The story brings together several major characters from the Batman universe.",
+    "description": "Batman: Arkham Knight puts you behind the mask of Batman as he faces the mysterious Arkham Knight and a group of dangerous villains in Gotham City. Patrol a large open world using Batman's gadgets, detective skills, and combat abilities, while the Batmobile adds new traversal and combat options. The story brings together several major characters from the Batman universe. The world encourages exploration and rewards players who take time to investigate optional locations and activities. A mix of action, discovery, and narrative keeps the experience varied.",
     "discount": "0%",
     "oldPrice": "$19.99",
     "newPrice": "$19.99",
@@ -230,7 +328,20 @@
     "slug": "batman-arkham-knight",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208650/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208650/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Polish",
+      "Portuguese",
+      "Japanese",
+      "Simplified Chinese"
+    ],
+    "aboutGame": "This is an open-world action game where you play as Batman in Gotham City. Combat, stealth, detective work, gadgets, and the Batmobile are all part of the gameplay. The city also contains many optional activities and side missions to discover."
   },
   {
     "id": "9",
@@ -251,7 +362,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Titanfall 2 combines fast-paced first-person shooting with agile movement and powerful Titans. Follow pilot Jack Cooper and his Titan BT-7274 through a cinematic single-player campaign filled with varied environments, creative encounters, and intense battles. Multiplayer expands the experience with wall-running, double jumps, customizable loadouts, and large-scale Titan combat.",
+    "description": "Titanfall 2 combines fast-paced first-person shooting with agile movement and powerful Titans. Follow pilot Jack Cooper and his Titan BT-7274 through a cinematic single-player campaign filled with varied environments, creative encounters, and intense battles. Multiplayer expands the experience with wall-running, double jumps, customizable loadouts, and large-scale Titan combat. The gameplay combines its core mechanics with progression and exploration to keep each session engaging. Different challenges and situations encourage players to adapt their approach as they play.",
     "discount": "60%",
     "oldPrice": "$29.99",
     "newPrice": "$11.99",
@@ -259,7 +370,20 @@
     "slug": "titanfall-2",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237970/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237970/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Polish",
+      "Portuguese",
+      "Japanese",
+      "Simplified Chinese"
+    ],
+    "aboutGame": "This is a fast first-person shooter that combines agile movement with giant Titan robots. Wall-running, double jumps, and quick movement make firefights highly dynamic. It features both a cinematic single-player campaign and competitive multiplayer."
   },
   {
     "id": "10",
@@ -281,7 +405,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Left 4 Dead 2 is a cooperative first-person shooter where four survivors fight their way through cities, swamps, highways, and other locations overrun by infected. Work together to manage weapons, supplies, and special infected while the dynamic AI Director changes enemy encounters and item placement. Teamwork and communication are essential for surviving each campaign.",
+    "description": "Left 4 Dead 2 is a cooperative first-person shooter where four survivors fight their way through cities, swamps, highways, and other locations overrun by infected. Work together to manage weapons, supplies, and special infected while the dynamic AI Director changes enemy encounters and item placement. Teamwork and communication are essential for surviving each campaign. The gameplay combines its core mechanics with progression and exploration to keep each session engaging. Different challenges and situations encourage players to adapt their approach as they play.",
     "discount": "0%",
     "oldPrice": "$9.99",
     "newPrice": "$9.99",
@@ -289,7 +413,21 @@
     "slug": "left-4-dead-2",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Polish",
+      "Portuguese",
+      "Japanese",
+      "Korean",
+      "Simplified Chinese"
+    ],
+    "aboutGame": "This is a cooperative first-person zombie shooter designed around teamwork. Players fight through campaigns while sharing weapons, health items, and resources. The dynamic Director changes enemy encounters and item placement, making each run feel different."
   },
   {
     "id": "11",
@@ -310,7 +448,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Red Dead Redemption 2 is an open-world western adventure centered on Arthur Morgan, an outlaw and member of the Van der Linde gang. As the gang struggles to survive while the age of outlaws comes to an end, you travel across a vast frontier, complete missions, hunt, explore, and build relationships with other characters. The game combines a detailed world with a character-driven story.",
+    "description": "Red Dead Redemption 2 is an open-world western adventure centered on Arthur Morgan, an outlaw and member of the Van der Linde gang. As the gang struggles to survive while the age of outlaws comes to an end, you travel across a vast frontier, complete missions, hunt, explore, and build relationships with other characters. The game combines a detailed world with a character-driven story. The world encourages exploration and rewards players who take time to investigate optional locations and activities. A mix of action, discovery, and narrative keeps the experience varied.",
     "discount": "0%",
     "oldPrice": "$59.99",
     "newPrice": "$59.99",
@@ -318,7 +456,22 @@
     "slug": "red-dead-redemption-2",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "Italian",
+      "German",
+      "Spanish",
+      "Japanese",
+      "Korean",
+      "Polish",
+      "Russian",
+      "Simplified Chinese",
+      "Traditional Chinese",
+      "Portuguese - Brazil"
+    ],
+    "aboutGame": "This is a story-driven open-world western adventure. You can ride horses, hunt, explore, fight, complete missions, and interact with a highly detailed world. Character relationships and the evolving story are major parts of the experience."
   },
   {
     "id": "12",
@@ -339,7 +492,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "The Witcher 3: Wild Hunt follows Geralt of Rivia, a professional monster hunter searching for Ciri while the continent is threatened by war and the mysterious Wild Hunt. Explore a massive open world, investigate contracts, fight monsters, use signs and potions, and make choices that can change quests and character relationships. Its main story and numerous side quests create a large, branching adventure.",
+    "description": "The Witcher 3: Wild Hunt follows Geralt of Rivia, a professional monster hunter searching for Ciri while the continent is threatened by war and the mysterious Wild Hunt. Explore a massive open world, investigate contracts, fight monsters, use signs and potions, and make choices that can change quests and character relationships. Its main story and numerous side quests create a large, branching adventure. Character progression gives you several ways to improve your abilities and adapt your playstyle. Exploration and optional activities also add depth beyond the main storyline.",
     "discount": "70%",
     "oldPrice": "$39.99",
     "newPrice": "$11.99",
@@ -347,7 +500,22 @@
     "slug": "the-witcher-3-wild-hunt",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Polish",
+      "Portuguese",
+      "Japanese",
+      "Korean",
+      "Simplified Chinese",
+      "Traditional Chinese"
+    ],
+    "aboutGame": "This is an open-world action RPG focused on story, exploration, and monster hunting. You play as Geralt, using weapons, signs, potions, and equipment while completing quests. Your choices can affect characters, quests, and parts of the story."
   },
   {
     "id": "13",
@@ -367,7 +535,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Life is Strange follows Max Caulfield, a photography student who discovers that she can rewind time. After returning to her hometown of Arcadia Bay, Max becomes involved in a mystery surrounding her friend Chloe and a missing student. Your choices influence conversations, relationships, events, and the direction of the story, making decisions an important part of the experience.",
+    "description": "Life is Strange follows Max Caulfield, a photography student who discovers that she can rewind time. After returning to her hometown of Arcadia Bay, Max becomes involved in a mystery surrounding her friend Chloe and a missing student. Your choices influence conversations, relationships, events, and the direction of the story, making decisions an important part of the experience. The world encourages exploration and rewards players who take time to investigate optional locations and activities. A mix of action, discovery, and narrative keeps the experience varied.",
     "discount": "0%",
     "oldPrice": "$19.99",
     "newPrice": "$19.99",
@@ -375,7 +543,20 @@
     "slug": "life-is-strange",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Portuguese",
+      "Polish",
+      "Russian",
+      "Simplified Chinese",
+      "Japanese"
+    ],
+    "aboutGame": "This is a narrative adventure game built around exploration, dialogue, and player choices. Max can rewind time to change events and explore different consequences. Decisions can affect relationships, conversations, and the direction of the story."
   },
   {
     "id": "14",
@@ -396,7 +577,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Tomb Raider follows a young Lara Croft on her first major adventure after a shipwreck leaves her stranded on a dangerous island. Lara must explore ancient ruins, solve environmental puzzles, hunt for resources, and fight hostile survivors while uncovering the island's secrets. The game combines cinematic action with exploration and survival mechanics.",
+    "description": "Tomb Raider follows a young Lara Croft on her first major adventure after a shipwreck leaves her stranded on a dangerous island. Lara must explore ancient ruins, solve environmental puzzles, hunt for resources, and fight hostile survivors while uncovering the island's secrets. The game combines cinematic action with exploration and survival mechanics. The world encourages exploration and rewards players who take time to investigate optional locations and activities. A mix of action, discovery, and narrative keeps the experience varied.",
     "discount": "0%",
     "oldPrice": "$19.99",
     "newPrice": "$19.99",
@@ -404,7 +585,20 @@
     "slug": "tomb-raider",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Polish",
+      "Portuguese",
+      "Japanese",
+      "Simplified Chinese"
+    ],
+    "aboutGame": "This is an action-adventure game following Lara Croft on a dangerous island. Exploration, platforming, combat, hunting, and environmental puzzles are central gameplay elements. Gathering resources and upgrading Lara helps her survive increasingly dangerous encounters."
   },
   {
     "id": "15",
@@ -425,7 +619,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Rise of the Tomb Raider continues Lara Croft's journey as she searches for the legendary source of immortality while competing against the organization Trinity. Explore Siberian wilderness, ancient tombs, and hidden ruins while hunting animals, crafting equipment, climbing dangerous terrain, and solving puzzles. The game expands the series' exploration and survival systems with larger environments.",
+    "description": "Rise of the Tomb Raider continues Lara Croft's journey as she searches for the legendary source of immortality while competing against the organization Trinity. Explore Siberian wilderness, ancient tombs, and hidden ruins while hunting animals, crafting equipment, climbing dangerous terrain, and solving puzzles. The game expands the series' exploration and survival systems with larger environments. The world encourages exploration and rewards players who take time to investigate optional locations and activities. A mix of action, discovery, and narrative keeps the experience varied.",
     "discount": "0%",
     "oldPrice": "$29.99",
     "newPrice": "$29.99",
@@ -433,7 +627,20 @@
     "slug": "rise-of-the-tomb-raider",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Polish",
+      "Portuguese",
+      "Japanese",
+      "Simplified Chinese"
+    ],
+    "aboutGame": "This is an action-adventure game focused on exploration, survival, and archaeology. Lara explores large environments, climbs, hunts, crafts equipment, fights enemies, and solves puzzles. Optional tombs and activities provide additional challenges beyond the main story."
   },
   {
     "id": "16",
@@ -455,7 +662,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Horizon Zero Dawn Complete Edition follows Aloy, a skilled hunter living in a world where humanity survives among mysterious machines. As she searches for answers about her origins, Aloy uncovers secrets about the ancient civilization that shaped the world. Hunt robotic creatures using bows, traps, and specialized weapons, explore a large open world, and customize your abilities and equipment.",
+    "description": "Horizon Zero Dawn Complete Edition follows Aloy, a skilled hunter living in a world where humanity survives among mysterious machines. As she searches for answers about her origins, Aloy uncovers secrets about the ancient civilization that shaped the world. Hunt robotic creatures using bows, traps, and specialized weapons, explore a large open world, and customize your abilities and equipment. Character progression gives you several ways to improve your abilities and adapt your playstyle. Exploration and optional activities also add depth beyond the main storyline.",
     "discount": "0%",
     "oldPrice": "$49.99",
     "newPrice": "$49.99",
@@ -463,7 +670,21 @@
     "slug": "horizon-zero-dawn-complete-edition",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Polish",
+      "Portuguese",
+      "Japanese",
+      "Korean",
+      "Simplified Chinese"
+    ],
+    "aboutGame": "This is an open-world action RPG set in a post-apocalyptic world inhabited by machine creatures. Aloy uses bows, traps, and specialized weapons to hunt machines and uncover the world's history. Exploration, character progression, and discovering ancient secrets are major parts of the game."
   },
   {
     "id": "17",
@@ -484,7 +705,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Death Stranding is an unusual open-world adventure set in a fractured future where isolated communities struggle to survive after a mysterious catastrophe. As Sam Porter Bridges, you travel across dangerous landscapes delivering supplies and reconnecting distant settlements. Careful route planning, terrain management, equipment, and cooperation with other players are central to the experience.",
+    "description": "Death Stranding is an unusual open-world adventure set in a fractured future where isolated communities struggle to survive after a mysterious catastrophe. As Sam Porter Bridges, you travel across dangerous landscapes delivering supplies and reconnecting distant settlements. Careful route planning, terrain management, equipment, and cooperation with other players are central to the experience. The world encourages exploration and rewards players who take time to investigate optional locations and activities. A mix of action, discovery, and narrative keeps the experience varied.",
     "discount": "0%",
     "oldPrice": "$39.99",
     "newPrice": "$39.99",
@@ -492,7 +713,22 @@
     "slug": "death-stranding-directors-cut",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190460/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190460/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Portuguese",
+      "Polish",
+      "Japanese",
+      "Korean",
+      "Simplified Chinese",
+      "Traditional Chinese"
+    ],
+    "aboutGame": "This is an unusual open-world adventure centered on exploration and delivery. You travel across dangerous terrain, manage your equipment and cargo, and reconnect isolated settlements. Structures and routes created by other players can also help you during your journey."
   },
   {
     "id": "18",
@@ -512,7 +748,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Stray is an atmospheric adventure in which you play as a stray cat separated from its family in a mysterious underground city. Explore abandoned streets, interact with robots, solve environmental puzzles, and uncover the history of the forgotten world with the help of a small drone companion. The game focuses on exploration, atmosphere, and discovering its story through the environment.",
+    "description": "Stray is an atmospheric adventure in which you play as a stray cat separated from its family in a mysterious underground city. Explore abandoned streets, interact with robots, solve environmental puzzles, and uncover the history of the forgotten world with the help of a small drone companion. The game focuses on exploration, atmosphere, and discovering its story through the environment. The world encourages exploration and rewards players who take time to investigate optional locations and activities. A mix of action, discovery, and narrative keeps the experience varied.",
     "discount": "25%",
     "oldPrice": "$29.99",
     "newPrice": "$22.49",
@@ -520,7 +756,19 @@
     "slug": "stray",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Portuguese",
+      "Russian",
+      "Simplified Chinese",
+      "Japanese"
+    ],
+    "aboutGame": "This is an atmospheric adventure game where you play as a stray cat exploring a mysterious underground city. Exploration, environmental puzzles, platforming, and interaction with the world are the main gameplay elements. A small drone companion helps uncover the city's secrets and history."
   },
   {
     "id": "19",
@@ -544,7 +792,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Baldur's Gate 3 is a story-rich role-playing game set in the Dungeons & Dragons universe. Create a character or play as an origin hero, form a party, explore the Forgotten Realms, and make choices that can dramatically affect quests and relationships. Turn-based combat, character builds, dialogue choices, exploration, and multiple possible outcomes give each playthrough its own story.",
+    "description": "Baldur's Gate 3 is a story-rich role-playing game set in the Dungeons & Dragons universe. Create a character or play as an origin hero, form a party, explore the Forgotten Realms, and make choices that can dramatically affect quests and relationships. Turn-based combat, character builds, dialogue choices, exploration, and multiple possible outcomes give each playthrough its own story. Different approaches can lead to very different results depending on your decisions. Planning ahead, adapting to changing situations, and managing limited resources are important throughout the game.",
     "discount": "0%",
     "oldPrice": "$59.99",
     "newPrice": "$59.99",
@@ -552,7 +800,20 @@
     "slug": "baldurs-gate-3",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Spanish",
+      "Polish",
+      "Russian",
+      "Simplified Chinese",
+      "Japanese",
+      "Korean",
+      "Portuguese"
+    ],
+    "aboutGame": "This is a deep, choice-driven RPG set in the Dungeons & Dragons universe. You build a party, explore the world, make dialogue choices, and fight in turn-based battles. Your decisions can significantly change quests, relationships, and story outcomes."
   },
   {
     "id": "20",
@@ -575,7 +836,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Elden Ring is an open-world action RPG set in the vast and mysterious Lands Between. Create your own character, discover hidden locations, fight powerful enemies and bosses, and develop your build through weapons, magic, skills, and equipment. The open world allows you to choose your own path, with countless secrets and challenging encounters waiting beyond the main route.",
+    "description": "Elden Ring is an open-world action RPG set in the vast and mysterious Lands Between. Create your own character, discover hidden locations, fight powerful enemies and bosses, and develop your build through weapons, magic, skills, and equipment. The open world allows you to choose your own path, with countless secrets and challenging encounters waiting beyond the main route. Character progression gives you several ways to improve your abilities and adapt your playstyle. Exploration and optional activities also add depth beyond the main storyline.",
     "discount": "0%",
     "oldPrice": "$59.99",
     "newPrice": "$59.99",
@@ -583,7 +844,21 @@
     "slug": "elden-ring",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Polish",
+      "Portuguese",
+      "Japanese",
+      "Simplified Chinese",
+      "Traditional Chinese"
+    ],
+    "aboutGame": "This is a large open-world action RPG focused on exploration and challenging combat. You create a character and develop a build using weapons, magic, skills, and equipment. Discovering hidden areas and defeating difficult bosses are central parts of the experience."
   },
   {
     "id": "21",
@@ -603,7 +878,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Cyberpunk 2077 is an open-world action RPG set in Night City, a massive metropolis dominated by corporations, gangs, technology, and cybernetic enhancements. You play as V, a mercenary whose life changes after a dangerous job connects them to a powerful digital personality. Customize your character, use weapons and cyberware, complete quests, and make choices that shape V's story.",
+    "description": "Cyberpunk 2077 is an open-world action RPG set in Night City, a massive metropolis dominated by corporations, gangs, technology, and cybernetic enhancements. You play as V, a mercenary whose life changes after a dangerous job connects them to a powerful digital personality. Customize your character, use weapons and cyberware, complete quests, and make choices that shape V's story. Character progression gives you several ways to improve your abilities and adapt your playstyle. Exploration and optional activities also add depth beyond the main storyline.",
     "discount": "30%",
     "oldPrice": "$59.99",
     "newPrice": "$41.99",
@@ -611,7 +886,22 @@
     "slug": "cyberpunk-2077",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Polish",
+      "Portuguese",
+      "Japanese",
+      "Korean",
+      "Simplified Chinese",
+      "Traditional Chinese"
+    ],
+    "aboutGame": "This is an open-world action RPG set in the futuristic Night City. You play as V and can customize weapons, cyberware, abilities, and playstyle. Missions and choices can affect relationships, quests, and parts of the story."
   },
   {
     "id": "22",
@@ -631,7 +921,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Fallout 4 is an open-world RPG set in a post-apocalyptic version of the United States. After emerging from an underground Vault, the player searches for a missing family member while exploring the Commonwealth. Scavenge resources, fight mutated creatures and hostile factions, customize weapons and armor, build settlements, and make choices that influence the world around you.",
+    "description": "Fallout 4 is an open-world RPG set in a post-apocalyptic version of the United States. After emerging from an underground Vault, the player searches for a missing family member while exploring the Commonwealth. Scavenge resources, fight mutated creatures and hostile factions, customize weapons and armor, build settlements, and make choices that influence the world around you. Character progression gives you several ways to improve your abilities and adapt your playstyle. Exploration and optional activities also add depth beyond the main storyline.",
     "discount": "0%",
     "oldPrice": "$19.99",
     "newPrice": "$19.99",
@@ -639,7 +929,20 @@
     "slug": "fallout-4",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Polish",
+      "Portuguese",
+      "Japanese",
+      "Simplified Chinese"
+    ],
+    "aboutGame": "This is an open-world post-apocalyptic RPG. You explore the Commonwealth, fight enemies, collect resources, customize weapons, build settlements, and interact with different factions. Character progression lets you develop your own style of play."
   },
   {
     "id": "23",
@@ -662,7 +965,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Monster Hunter: World challenges you to hunt massive creatures across a living ecosystem. Prepare for each hunt by studying your target, selecting the right weapon, crafting equipment, and using the environment to your advantage. Successful hunts provide materials for stronger gear, allowing you to take on increasingly dangerous monsters alone or with other players.",
+    "description": "Monster Hunter: World challenges you to hunt massive creatures across a living ecosystem. Prepare for each hunt by studying your target, selecting the right weapon, crafting equipment, and using the environment to your advantage. Successful hunts provide materials for stronger gear, allowing you to take on increasingly dangerous monsters alone or with other players. Character progression gives you several ways to improve your abilities and adapt your playstyle. Exploration and optional activities also add depth beyond the main storyline.",
     "discount": "0%",
     "oldPrice": "$29.99",
     "newPrice": "$29.99",
@@ -670,7 +973,22 @@
     "slug": "monster-hunter-world",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Portuguese",
+      "Polish",
+      "Japanese",
+      "Korean",
+      "Simplified Chinese",
+      "Traditional Chinese"
+    ],
+    "aboutGame": "This is an action RPG focused on hunting large monsters. You study each target, choose suitable equipment, fight it, and use materials from successful hunts to craft stronger gear. Hunts can be played alone or cooperatively with other players."
   },
   {
     "id": "24",
@@ -690,7 +1008,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Persona 5 Royal follows a group of high school students who discover the ability to enter a mysterious supernatural realm and change the hearts of corrupt adults. Balance everyday school life, friendships, activities, and personal growth with turn-based battles and dungeon exploration. Royal expands the original adventure with new characters, story content, abilities, and challenges.",
+    "description": "Persona 5 Royal follows a group of high school students who discover the ability to enter a mysterious supernatural realm and change the hearts of corrupt adults. Balance everyday school life, friendships, activities, and personal growth with turn-based battles and dungeon exploration. Royal expands the original adventure with new characters, story content, abilities, and challenges. Character progression gives you several ways to improve your abilities and adapt your playstyle. Exploration and optional activities also add depth beyond the main storyline.",
     "discount": "35%",
     "oldPrice": "$59.99",
     "newPrice": "$38.99",
@@ -698,7 +1016,20 @@
     "slug": "persona-5-royal",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Spanish",
+      "Italian",
+      "Russian",
+      "Portuguese",
+      "Japanese",
+      "Simplified Chinese",
+      "Korean"
+    ],
+    "aboutGame": "This is a story-driven RPG that combines school life, social relationships, exploration, and turn-based combat. You manage your time between daily activities and supernatural dungeon adventures. Your party, Personas, and social choices all contribute to character progression."
   },
   {
     "id": "25",
@@ -721,7 +1052,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Divinity: Original Sin 2 - Definitive Edition is a deep party-based RPG where your choices can change the world and the people around you. Create a character, recruit companions, explore Rivellon, and fight in tactical turn-based battles. The environment can become part of combat through interactions between fire, poison, water, electricity, and other effects, giving you many ways to approach encounters.",
+    "description": "Divinity: Original Sin 2 - Definitive Edition is a deep party-based RPG where your choices can change the world and the people around you. Create a character, recruit companions, explore Rivellon, and fight in tactical turn-based battles. The environment can become part of combat through interactions between fire, poison, water, electricity, and other effects, giving you many ways to approach encounters. Different approaches can lead to very different results depending on your decisions. Planning ahead, adapting to changing situations, and managing limited resources are important throughout the game.",
     "discount": "0%",
     "oldPrice": "$44.99",
     "newPrice": "$44.99",
@@ -729,7 +1060,19 @@
     "slug": "divinity-original-sin-2",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435150/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435150/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Spanish",
+      "Russian",
+      "Polish",
+      "Portuguese",
+      "Simplified Chinese",
+      "Japanese"
+    ],
+    "aboutGame": "This is a party-based RPG with turn-based tactical combat and a strong focus on player choice. You recruit companions, explore Rivellon, and use abilities and the environment creatively in combat. Elements such as fire, water, poison, and electricity can interact with each other."
   },
   {
     "id": "26",
@@ -750,7 +1093,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Dragon's Dogma 2 is an open-world action RPG set in a fantasy world filled with monsters, cities, ruins, and dangerous wilderness. Play as the Arisen and travel with AI-controlled companions known as Pawns. Choose from different vocations, climb giant creatures, experiment with abilities, and explore a world where quests and encounters can unfold in unexpected ways.",
+    "description": "Dragon's Dogma 2 is an open-world action RPG set in a fantasy world filled with monsters, cities, ruins, and dangerous wilderness. Play as the Arisen and travel with AI-controlled companions known as Pawns. Choose from different vocations, climb giant creatures, experiment with abilities, and explore a world where quests and encounters can unfold in unexpected ways. Character progression gives you several ways to improve your abilities and adapt your playstyle. Exploration and optional activities also add depth beyond the main storyline.",
     "discount": "0%",
     "oldPrice": "$69.99",
     "newPrice": "$69.99",
@@ -758,7 +1101,20 @@
     "slug": "dragons-dogma-2",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Polish",
+      "Portuguese",
+      "Japanese",
+      "Simplified Chinese"
+    ],
+    "aboutGame": "This is an open-world fantasy action RPG with real-time combat. You play as the Arisen and travel with AI companions called Pawns. Different vocations, large monsters, exploration, and unpredictable encounters define much of the gameplay."
   },
   {
     "id": "27",
@@ -781,7 +1137,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Dark Souls III is a challenging action RPG set in a dark fantasy world approaching its final age. Explore interconnected areas filled with hostile creatures, hidden paths, traps, and powerful bosses. Build your character through weapons, armor, spells, and attributes while learning enemy patterns and mastering stamina-based combat.",
+    "description": "Dark Souls III is a challenging action RPG set in a dark fantasy world approaching its final age. Explore interconnected areas filled with hostile creatures, hidden paths, traps, and powerful bosses. Build your character through weapons, armor, spells, and attributes while learning enemy patterns and mastering stamina-based combat. Character progression gives you several ways to improve your abilities and adapt your playstyle. Exploration and optional activities also add depth beyond the main storyline.",
     "discount": "0%",
     "oldPrice": "$59.99",
     "newPrice": "$59.99",
@@ -789,7 +1145,21 @@
     "slug": "darksouls-iii",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Polish",
+      "Portuguese",
+      "Japanese",
+      "Simplified Chinese",
+      "Traditional Chinese"
+    ],
+    "aboutGame": "This is a challenging action RPG known for precise combat and dark fantasy atmosphere. Managing stamina, learning enemy patterns, and creating an effective character build are important. Exploration and demanding boss fights are central to the experience."
   },
   {
     "id": "28",
@@ -809,7 +1179,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Starfield is a space-faring RPG that lets you explore hundreds of planets across a large science-fiction universe. Create your own character, join different factions, customize weapons and equipment, build and modify ships, and travel between worlds. Its quests and exploration allow you to shape your own story among competing interests and mysteries.",
+    "description": "Starfield is a space-faring RPG that lets you explore hundreds of planets across a large science-fiction universe. Create your own character, join different factions, customize weapons and equipment, build and modify ships, and travel between worlds. Its quests and exploration allow you to shape your own story among competing interests and mysteries. Character progression gives you several ways to improve your abilities and adapt your playstyle. Exploration and optional activities also add depth beyond the main storyline.",
     "discount": "0%",
     "oldPrice": "$69.99",
     "newPrice": "$69.99",
@@ -817,7 +1187,21 @@
     "slug": "starfield",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1716740/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1716740/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Spanish",
+      "Italian",
+      "Polish",
+      "Portuguese",
+      "Japanese",
+      "Simplified Chinese",
+      "Traditional Chinese",
+      "Korean"
+    ],
+    "aboutGame": "This is a space exploration RPG set across a large science-fiction universe. You can explore planets, customize ships, join factions, complete quests, and develop your character. Exploration and player choice allow you to shape your own space-faring adventure."
   },
   {
     "id": "29",
@@ -838,7 +1222,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Resident Evil 2 is a survival horror remake that follows Leon S. Kennedy and Claire Redfield as they become trapped in Raccoon City during a catastrophic outbreak. Explore the ruined police station and surrounding locations, solve puzzles, manage limited resources, and fight terrifying enemies. Different campaigns reveal the outbreak from the perspectives of the two protagonists.",
+    "description": "Resident Evil 2 is a survival horror remake that follows Leon S. Kennedy and Claire Redfield as they become trapped in Raccoon City during a catastrophic outbreak. Explore the ruined police station and surrounding locations, solve puzzles, manage limited resources, and fight terrifying enemies. Different campaigns reveal the outbreak from the perspectives of the two protagonists. The atmosphere is strengthened by carefully designed environments, sound, and enemy encounters. Exploration and resource management add tension as you gradually uncover more of the world.",
     "discount": "0%",
     "oldPrice": "$39.99",
     "newPrice": "$39.99",
@@ -846,7 +1230,24 @@
     "slug": "resident-evil-2",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883710/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883710/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "Italian",
+      "German",
+      "Spanish",
+      "Polish",
+      "Russian",
+      "Simplified Chinese",
+      "Traditional Chinese",
+      "Japanese",
+      "Korean",
+      "Portuguese - Brazil",
+      "Arabic",
+      "Thai"
+    ],
+    "aboutGame": "This is a survival horror game focused on exploration, resource management, puzzles, and tense combat. You explore the ruined Raccoon City Police Department and other dangerous locations. Limited ammunition and supplies encourage careful decisions while facing terrifying enemies."
   },
   {
     "id": "30",
@@ -867,7 +1268,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Resident Evil 4 is a survival horror action game following Leon S. Kennedy on a mission to rescue the president's daughter from a remote European village. The journey leads through hostile settlements, ancient locations, and terrifying encounters. Combine precise shooting, resource management, crafting, exploration, and close-quarters combat while uncovering the larger threat behind the kidnapping.",
+    "description": "Resident Evil 4 is a survival horror action game following Leon S. Kennedy on a mission to rescue the president's daughter from a remote European village. The journey leads through hostile settlements, ancient locations, and terrifying encounters. Combine precise shooting, resource management, crafting, exploration, and close-quarters combat while uncovering the larger threat behind the kidnapping. The atmosphere is strengthened by carefully designed environments, sound, and enemy encounters. Exploration and resource management add tension as you gradually uncover more of the world.",
     "discount": "0%",
     "oldPrice": "$39.99",
     "newPrice": "$39.99",
@@ -875,7 +1276,24 @@
     "slug": "resident-evil-4",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "Italian",
+      "German",
+      "Spanish",
+      "Polish",
+      "Russian",
+      "Simplified Chinese",
+      "Traditional Chinese",
+      "Japanese",
+      "Korean",
+      "Portuguese - Brazil",
+      "Arabic",
+      "Thai"
+    ],
+    "aboutGame": "This is a third-person action game that combines survival horror with intense combat. Leon travels through hostile villages and dangerous locations while trying to rescue the president's daughter. Shooting, crafting, resource management, and close-quarters combat are all important."
   },
   {
     "id": "31",
@@ -897,7 +1315,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Resident Evil 7 biohazard follows Ethan Winters as he searches for his missing wife in a remote Louisiana plantation. After arriving at an isolated house, Ethan becomes trapped with the terrifying Baker family and a mysterious biological threat. First-person exploration, limited resources, puzzles, combat, and a tense atmosphere create a more intimate survival horror experience.",
+    "description": "Resident Evil 7 biohazard follows Ethan Winters as he searches for his missing wife in a remote Louisiana plantation. After arriving at an isolated house, Ethan becomes trapped with the terrifying Baker family and a mysterious biological threat. First-person exploration, limited resources, puzzles, combat, and a tense atmosphere create a more intimate survival horror experience. The atmosphere is strengthened by carefully designed environments, sound, and enemy encounters. Exploration and resource management add tension as you gradually uncover more of the world.",
     "discount": "0%",
     "oldPrice": "$19.99",
     "newPrice": "$19.99",
@@ -905,7 +1323,19 @@
     "slug": "resident-evil-7-biohazard",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418370/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418370/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "Italian",
+      "German",
+      "Spanish",
+      "Russian",
+      "Japanese",
+      "Simplified Chinese",
+      "Traditional Chinese"
+    ],
+    "aboutGame": "This is a first-person survival horror game focused on atmosphere, exploration, and resource management. Ethan explores a disturbing house while solving puzzles and surviving dangerous enemies. Limited resources and unpredictable encounters keep the tension high."
   },
   {
     "id": "32",
@@ -927,7 +1357,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Amnesia: The Dark Descent follows Daniel, a man who wakes up in a mysterious castle with no memory of how he arrived there. As he explores the dark halls, he slowly discovers the truth about his past and the events surrounding him. Players must solve puzzles, manage their sanity, and avoid terrifying creatures because direct combat is not the main way to survive.",
+    "description": "Amnesia: The Dark Descent follows Daniel, a man who wakes up in a mysterious castle with no memory of how he arrived there. As he explores the dark halls, he slowly discovers the truth about his past and the events surrounding him. Players must solve puzzles, manage their sanity, and avoid terrifying creatures because direct combat is not the main way to survive. The atmosphere is strengthened by carefully designed environments, sound, and enemy encounters. Exploration and resource management add tension as you gradually uncover more of the world.",
     "discount": "0%",
     "oldPrice": "$19.99",
     "newPrice": "$19.99",
@@ -935,7 +1365,20 @@
     "slug": "amnesia-the-dark-descent",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57300/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57300/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Polish",
+      "Portuguese",
+      "Simplified Chinese",
+      "Japanese"
+    ],
+    "aboutGame": "This is a first-person survival horror game focused more on fear and hiding than direct combat. You explore a dark castle, solve puzzles, and uncover the protagonist's past. Darkness and the sanity system make exploration increasingly dangerous."
   },
   {
     "id": "33",
@@ -957,7 +1400,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Outlast follows investigative journalist Miles Upshur as he enters Mount Massive Asylum after receiving information about disturbing experiments. With no conventional weapons, Miles must use his camera's night vision to navigate dark corridors and document what is happening. Stealth, exploration, hiding, and resource management are essential as hostile patients and other threats hunt him.",
+    "description": "Outlast follows investigative journalist Miles Upshur as he enters Mount Massive Asylum after receiving information about disturbing experiments. With no conventional weapons, Miles must use his camera's night vision to navigate dark corridors and document what is happening. Stealth, exploration, hiding, and resource management are essential as hostile patients and other threats hunt him. The atmosphere is strengthened by carefully designed environments, sound, and enemy encounters. Exploration and resource management add tension as you gradually uncover more of the world.",
     "discount": "0%",
     "oldPrice": "$19.99",
     "newPrice": "$19.99",
@@ -965,7 +1408,20 @@
     "slug": "outlast",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238320/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238320/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Polish",
+      "Portuguese",
+      "Simplified Chinese",
+      "Japanese"
+    ],
+    "aboutGame": "This is a first-person survival horror game where you investigate a terrifying psychiatric facility without conventional weapons. A night-vision camera is essential for seeing in the dark. Hiding, escaping, and carefully choosing when to move are more important than fighting."
   },
   {
     "id": "34",
@@ -987,7 +1443,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Alien: Isolation places Amanda Ripley aboard a damaged space station where she searches for information about her missing mother. A highly intelligent Xenomorph stalks the station, forcing you to rely on stealth, improvisation, and careful movement rather than direct combat. Explore abandoned facilities, collect resources, craft tools, and survive while the alien constantly adapts to your behavior.",
+    "description": "Alien: Isolation places Amanda Ripley aboard a damaged space station where she searches for information about her missing mother. A highly intelligent Xenomorph stalks the station, forcing you to rely on stealth, improvisation, and careful movement rather than direct combat. Explore abandoned facilities, collect resources, craft tools, and survive while the alien constantly adapts to your behavior. The atmosphere is strengthened by carefully designed environments, sound, and enemy encounters. Exploration and resource management add tension as you gradually uncover more of the world.",
     "discount": "50%",
     "oldPrice": "$39.99",
     "newPrice": "$19.99",
@@ -995,7 +1451,20 @@
     "slug": "alien-isolation",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214490/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214490/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Polish",
+      "Portuguese",
+      "Japanese",
+      "Simplified Chinese"
+    ],
+    "aboutGame": "This is a survival horror game set in the Alien universe. Amanda Ripley explores a space station while trying to survive a highly dangerous Xenomorph. Stealth, crafting, resource management, and careful movement are essential for staying alive."
   },
   {
     "id": "35",
@@ -1017,7 +1486,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "SOMA is a psychological science-fiction horror game set in an isolated underwater research facility after a mysterious catastrophe. Explore abandoned stations, uncover recordings and documents, and piece together what happened to the people who lived there. The game focuses heavily on atmosphere, existential questions, and psychological tension while you try to survive the dangers surrounding you.",
+    "description": "SOMA is a psychological science-fiction horror game set in an isolated underwater research facility after a mysterious catastrophe. Explore abandoned stations, uncover recordings and documents, and piece together what happened to the people who lived there. The game focuses heavily on atmosphere, existential questions, and psychological tension while you try to survive the dangers surrounding you. The atmosphere is strengthened by carefully designed environments, sound, and enemy encounters. Exploration and resource management add tension as you gradually uncover more of the world.",
     "discount": "0%",
     "oldPrice": "$29.99",
     "newPrice": "$29.99",
@@ -1025,7 +1494,20 @@
     "slug": "soma",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282140/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282140/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Polish",
+      "Portuguese",
+      "Simplified Chinese",
+      "Japanese"
+    ],
+    "aboutGame": "This is a psychological science-fiction horror game set in an underwater research facility. You explore the facility, solve puzzles, and uncover what happened through documents and environmental storytelling. The game also explores themes of consciousness, identity, and what it means to be human."
   },
   {
     "id": "36",
@@ -1047,7 +1529,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "The Evil Within follows detective Sebastian Castellanos after he is pulled into a disturbing world filled with monsters, traps, and distorted environments. As reality becomes increasingly unstable, Sebastian must fight to survive while uncovering the mystery behind the nightmare. Resource management, exploration, stealth, and intense combat create a classic survival horror experience.",
+    "description": "The Evil Within follows detective Sebastian Castellanos after he is pulled into a disturbing world filled with monsters, traps, and distorted environments. As reality becomes increasingly unstable, Sebastian must fight to survive while uncovering the mystery behind the nightmare. Resource management, exploration, stealth, and intense combat create a classic survival horror experience. The atmosphere is strengthened by carefully designed environments, sound, and enemy encounters. Exploration and resource management add tension as you gradually uncover more of the world.",
     "discount": "0%",
     "oldPrice": "$19.99",
     "newPrice": "$19.99",
@@ -1055,7 +1537,20 @@
     "slug": "the-evil-within",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Polish",
+      "Portuguese",
+      "Japanese",
+      "Simplified Chinese"
+    ],
+    "aboutGame": "This is a survival horror game that mixes psychological horror with action. Sebastian explores disturbing and constantly changing environments while fighting dangerous creatures. Limited ammunition and resources encourage careful combat and exploration."
   },
   {
     "id": "37",
@@ -1076,7 +1571,7 @@
       "Steam Cloud"
     ],
     "playerRating": "Very Positive",
-    "description": "Sid Meier's Civilization VI is a turn-based strategy game where you build and lead a civilization from its earliest settlements into the modern era and beyond. Develop cities, research technologies and civics, manage resources, negotiate with other civilizations, and wage wars when necessary. Different leaders and victory conditions encourage a wide variety of strategies and playstyles.",
+    "description": "Sid Meier's Civilization VI is a turn-based strategy game where you build and lead a civilization from its earliest settlements into the modern era and beyond. Develop cities, research technologies and civics, manage resources, negotiate with other civilizations, and wage wars when necessary. Different leaders and victory conditions encourage a wide variety of strategies and playstyles. Different approaches can lead to very different results depending on your decisions. Planning ahead, adapting to changing situations, and managing limited resources are important throughout the game.",
     "discount": "0%",
     "oldPrice": "$59.99",
     "newPrice": "$59.99",
@@ -1084,7 +1579,20 @@
     "slug": "sid-meiers-civilization-vi",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Spanish",
+      "Russian",
+      "Polish",
+      "Portuguese",
+      "Simplified Chinese",
+      "Japanese",
+      "Korean"
+    ],
+    "aboutGame": "This is a turn-based grand strategy game where you build and lead a civilization. You establish cities, research technologies, develop culture, manage diplomacy, and fight wars. Different leaders and victory conditions allow campaigns to develop in very different ways."
   },
   {
     "id": "38",
@@ -1105,7 +1613,7 @@
       "Steam Cloud"
     ],
     "playerRating": "Very Positive",
-    "description": "Age of Empires IV is a real-time strategy game focused on building civilizations, gathering resources, developing technology, and commanding armies through major historical conflicts. Choose from distinct civilizations with unique units and mechanics, expand your territory, defend your economy, and adapt your strategy to the actions of your opponents.",
+    "description": "Age of Empires IV is a real-time strategy game focused on building civilizations, gathering resources, developing technology, and commanding armies through major historical conflicts. Choose from distinct civilizations with unique units and mechanics, expand your territory, defend your economy, and adapt your strategy to the actions of your opponents. Different approaches can lead to very different results depending on your decisions. Planning ahead, adapting to changing situations, and managing limited resources are important throughout the game.",
     "discount": "0%",
     "oldPrice": "$39.99",
     "newPrice": "$39.99",
@@ -1113,7 +1621,20 @@
     "slug": "age-of-empires-iv",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Spanish",
+      "Russian",
+      "Portuguese",
+      "Polish",
+      "Simplified Chinese",
+      "Japanese",
+      "Korean"
+    ],
+    "aboutGame": "This is a real-time strategy game focused on building civilizations and commanding armies. You gather resources, develop your economy, research technologies, and fight opponents. Each civilization has unique mechanics that influence how you approach the game."
   },
   {
     "id": "39",
@@ -1134,7 +1655,7 @@
       "Steam Cloud"
     ],
     "playerRating": "Very Positive",
-    "description": "Total War: WARHAMMER III combines turn-based empire management with large real-time battles in the Warhammer Fantasy universe. Lead powerful factions, expand territories, manage armies and settlements, and fight massive battles involving monsters, magic, and specialized units. The campaign offers different objectives and faction mechanics that make each playthrough distinct.",
+    "description": "Total War: WARHAMMER III combines turn-based empire management with large real-time battles in the Warhammer Fantasy universe. Lead powerful factions, expand territories, manage armies and settlements, and fight massive battles involving monsters, magic, and specialized units. The campaign offers different objectives and faction mechanics that make each playthrough distinct. Different approaches can lead to very different results depending on your decisions. Planning ahead, adapting to changing situations, and managing limited resources are important throughout the game.",
     "discount": "0%",
     "oldPrice": "$59.99",
     "newPrice": "$59.99",
@@ -1142,7 +1663,19 @@
     "slug": "total-war-warhammer-iii",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142710/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142710/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Spanish",
+      "Russian",
+      "Polish",
+      "Portuguese",
+      "Simplified Chinese",
+      "Japanese"
+    ],
+    "aboutGame": "This strategy game combines turn-based empire management with large real-time fantasy battles. You manage territories, build armies, and command huge battles involving monsters, magic, and specialized units. Different factions provide very different campaign mechanics and playstyles."
   },
   {
     "id": "40",
@@ -1163,7 +1696,7 @@
       "Steam Cloud"
     ],
     "playerRating": "Very Positive",
-    "description": "XCOM 2 is a turn-based tactical strategy game in which humanity fights to reclaim Earth from an alien-controlled regime. Command a squad of soldiers, customize their abilities and equipment, research new technology, and manage the Avenger base. Soldiers can permanently die, so careful positioning, planning, and difficult decisions are essential during missions.",
+    "description": "XCOM 2 is a turn-based tactical strategy game in which humanity fights to reclaim Earth from an alien-controlled regime. Command a squad of soldiers, customize their abilities and equipment, research new technology, and manage the Avenger base. Soldiers can permanently die, so careful positioning, planning, and difficult decisions are essential during missions. Different approaches can lead to very different results depending on your decisions. Planning ahead, adapting to changing situations, and managing limited resources are important throughout the game.",
     "discount": "75%",
     "oldPrice": "$49.99",
     "newPrice": "$12.49",
@@ -1171,7 +1704,20 @@
     "slug": "xcom-2",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Polish",
+      "Portuguese",
+      "Simplified Chinese",
+      "Japanese"
+    ],
+    "aboutGame": "This is a turn-based tactical strategy game about fighting an alien occupation. You manage soldiers, develop their abilities, research technology, and carefully position units during missions. Permanent soldier deaths make tactical decisions and risk management especially important."
   },
   {
     "id": "41",
@@ -1192,7 +1738,7 @@
       "Steam Cloud"
     ],
     "playerRating": "Very Positive",
-    "description": "Stellaris is a grand strategy game set in a vast galaxy where you create and lead your own space-faring civilization. Explore unknown systems, establish colonies, research technologies, manage resources, form alliances, and fight rival empires. You can define your species, government, ethics, and long-term goals, creating a different galactic story in every campaign.",
+    "description": "Stellaris is a grand strategy game set in a vast galaxy where you create and lead your own space-faring civilization. Explore unknown systems, establish colonies, research technologies, manage resources, form alliances, and fight rival empires. You can define your species, government, ethics, and long-term goals, creating a different galactic story in every campaign. Different approaches can lead to very different results depending on your decisions. Planning ahead, adapting to changing situations, and managing limited resources are important throughout the game.",
     "discount": "0%",
     "oldPrice": "$39.99",
     "newPrice": "$39.99",
@@ -1200,7 +1746,19 @@
     "slug": "stellaris",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Spanish",
+      "Russian",
+      "Polish",
+      "Portuguese",
+      "Simplified Chinese",
+      "Japanese"
+    ],
+    "aboutGame": "This is a grand strategy game about building and managing your own space empire. You colonize planets, research technologies, conduct diplomacy, and fight other civilizations. Your chosen species, government, and decisions can lead each campaign in a different direction."
   },
   {
     "id": "42",
@@ -1221,7 +1779,7 @@
       "Steam Cloud"
     ],
     "playerRating": "Very Positive",
-    "description": "Hearts of Iron IV is a grand strategy game set during the turbulent years surrounding World War II. Choose a nation, guide its political direction, build industry, research technologies, organize armies, and manage diplomacy while preparing for global conflict. Military planning and logistics play a major role as you try to reshape the course of history.",
+    "description": "Hearts of Iron IV is a grand strategy game set during the turbulent years surrounding World War II. Choose a nation, guide its political direction, build industry, research technologies, organize armies, and manage diplomacy while preparing for global conflict. Military planning and logistics play a major role as you try to reshape the course of history. Different approaches can lead to very different results depending on your decisions. Planning ahead, adapting to changing situations, and managing limited resources are important throughout the game.",
     "discount": "0%",
     "oldPrice": "$49.99",
     "newPrice": "$49.99",
@@ -1229,7 +1787,19 @@
     "slug": "hearts-of-iron-iv",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Spanish",
+      "Russian",
+      "Polish",
+      "Portuguese",
+      "Simplified Chinese",
+      "Japanese"
+    ],
+    "aboutGame": "This is a grand strategy game set around the Second World War. You manage a country's politics, economy, industry, military, and diplomacy. Logistics, production, military planning, and strategic decisions are essential to achieving victory."
   },
   {
     "id": "43",
@@ -1252,7 +1822,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Forza Horizon 5 is an open-world racing game set across a large and varied representation of Mexico. Drive hundreds of cars through deserts, cities, jungles, mountains, and coastal roads while taking part in races, challenges, stunts, and seasonal events. Customize vehicles and explore the world freely in solo or multiplayer activities.",
+    "description": "Forza Horizon 5 is an open-world racing game set across a large and varied representation of Mexico. Drive hundreds of cars through deserts, cities, jungles, mountains, and coastal roads while taking part in races, challenges, stunts, and seasonal events. Customize vehicles and explore the world freely in solo or multiplayer activities. The game offers a variety of activities and systems that let players approach each session in their own way. Progression and customization provide additional reasons to keep playing beyond the main events.",
     "discount": "0%",
     "oldPrice": "$59.99",
     "newPrice": "$59.99",
@@ -1260,7 +1830,20 @@
     "slug": "forza-horizon-5",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Portuguese",
+      "Russian",
+      "Polish",
+      "Japanese",
+      "Simplified Chinese"
+    ],
+    "aboutGame": "This is an open-world arcade racing game set in a fictionalized version of Mexico. You can race, explore, perform stunts, and collect and customize hundreds of cars. Its open world and variety of events make it accessible for both casual and competitive players."
   },
   {
     "id": "44",
@@ -1283,7 +1866,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Forza Horizon 4 is an open-world racing game set in a detailed version of Great Britain. Race through countryside, towns, cities, and changing weather while collecting and customizing a large variety of cars. Dynamic seasons transform the roads and driving conditions, while online events and challenges provide a constantly changing racing experience.",
+    "description": "Forza Horizon 4 is an open-world racing game set in a detailed version of Great Britain. Race through countryside, towns, cities, and changing weather while collecting and customizing a large variety of cars. Dynamic seasons transform the roads and driving conditions, while online events and challenges provide a constantly changing racing experience. The game offers a variety of activities and systems that let players approach each session in their own way. Progression and customization provide additional reasons to keep playing beyond the main events.",
     "discount": "0%",
     "oldPrice": "$59.99",
     "newPrice": "$59.99",
@@ -1291,7 +1874,20 @@
     "slug": "forza-horizon-4",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293830/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293830/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Portuguese",
+      "Russian",
+      "Polish",
+      "Japanese",
+      "Simplified Chinese"
+    ],
+    "aboutGame": "This is an open-world arcade racing game set in a fictionalized version of Great Britain. Players can freely drive, compete in races, perform stunts, and collect many different cars. Seasonal changes and a variety of events keep the open world active and varied."
   },
   {
     "id": "45",
@@ -1312,7 +1908,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Euro Truck Simulator 2 lets you build a trucking business across a large network of European roads and cities. Deliver cargo, earn money, purchase and customize trucks, expand your company, and manage your growing fleet. Realistic driving, navigation, traffic, weather, and long-distance routes create a relaxed but detailed simulation experience.",
+    "description": "Euro Truck Simulator 2 lets you build a trucking business across a large network of European roads and cities. Deliver cargo, earn money, purchase and customize trucks, expand your company, and manage your growing fleet. Realistic driving, navigation, traffic, weather, and long-distance routes create a relaxed but detailed simulation experience. The game offers a variety of activities and systems that let players approach each session in their own way. Progression and customization provide additional reasons to keep playing beyond the main events.",
     "discount": "0%",
     "oldPrice": "$19.99",
     "newPrice": "$19.99",
@@ -1320,7 +1916,22 @@
     "slug": "euro-truck-simulator-2",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Polish",
+      "Portuguese",
+      "Czech",
+      "Hungarian",
+      "Turkish",
+      "Simplified Chinese"
+    ],
+    "aboutGame": "This is a driving simulation game focused on transporting cargo across Europe. You complete deliveries, earn money, buy trucks, and expand your own transport business. Careful driving, route planning, and managing your company are central to the experience."
   },
   {
     "id": "46",
@@ -1344,7 +1955,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Assetto Corsa is a realistic racing simulator designed around accurate driving physics and detailed vehicle behavior. Race a wide selection of licensed cars on laser-scanned and carefully modeled circuits while adjusting setups to suit different driving conditions. Its focus on physics, tire behavior, braking, and racing lines makes it popular with simulation enthusiasts.",
+    "description": "Assetto Corsa is a realistic racing simulator designed around accurate driving physics and detailed vehicle behavior. Race a wide selection of licensed cars on laser-scanned and carefully modeled circuits while adjusting setups to suit different driving conditions. Its focus on physics, tire behavior, braking, and racing lines makes it popular with simulation enthusiasts. The game offers a variety of activities and systems that let players approach each session in their own way. Progression and customization provide additional reasons to keep playing beyond the main events.",
     "discount": "60%",
     "oldPrice": "$19.99",
     "newPrice": "$7.99",
@@ -1352,7 +1963,20 @@
     "slug": "assetto-corsa",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244210/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244210/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Portuguese",
+      "Polish",
+      "Japanese",
+      "Simplified Chinese"
+    ],
+    "aboutGame": "This is a realistic racing simulator focused on driving physics and car control. You can drive different cars on a variety of tracks and work on improving lap times. Vehicle setup, braking, cornering, and driving technique have a major effect on performance."
   },
   {
     "id": "47",
@@ -1375,7 +1999,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "F1 24 is an official Formula 1 racing game featuring the current F1 and F2 experience with licensed teams, drivers, and circuits. Take control of a driver career, compete in Grand Prix events, develop your performance, and adjust car setups for different tracks. Multiplayer and competitive modes provide additional ways to race against other players.",
+    "description": "F1 24 is an official Formula 1 racing game featuring the current F1 and F2 experience with licensed teams, drivers, and circuits. Take control of a driver career, compete in Grand Prix events, develop your performance, and adjust car setups for different tracks. Multiplayer and competitive modes provide additional ways to race against other players. The game offers a variety of activities and systems that let players approach each session in their own way. Progression and customization provide additional reasons to keep playing beyond the main events.",
     "discount": "50%",
     "oldPrice": "$69.99",
     "newPrice": "$34.99",
@@ -1383,7 +2007,20 @@
     "slug": "f1-24",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488620/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488620/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Portuguese",
+      "Dutch",
+      "Polish",
+      "Japanese",
+      "Simplified Chinese"
+    ],
+    "aboutGame": "This is a Formula 1 racing simulation featuring official teams, drivers, and circuits. You can compete in races and develop your career as a driver. Race strategy, braking, cornering, tire management, and car control are important for success."
   },
   {
     "id": "48",
@@ -1406,7 +2043,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "EA SPORTS FC 25 is a football simulation featuring licensed clubs, players, competitions, and multiple ways to play. Build and manage your Ultimate Team, create a career as a player or manager, and compete in online and offline matches. Updated gameplay systems and tactical options give you more control over how your team attacks and defends.",
+    "description": "EA SPORTS FC 25 is a football simulation featuring licensed clubs, players, competitions, and multiple ways to play. Build and manage your Ultimate Team, create a career as a player or manager, and compete in online and offline matches. Updated gameplay systems and tactical options give you more control over how your team attacks and defends. The game offers a variety of activities and systems that let players approach each session in their own way. Progression and customization provide additional reasons to keep playing beyond the main events.",
     "discount": "0%",
     "oldPrice": "$69.99",
     "newPrice": "$69.99",
@@ -1414,7 +2051,20 @@
     "slug": "ea-sports-fc-25",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669320/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669320/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Portuguese",
+      "Dutch",
+      "Polish",
+      "Arabic",
+      "Simplified Chinese"
+    ],
+    "aboutGame": "This is a football simulation featuring real clubs, players, and competitions. You can play matches, manage a career, build an Ultimate Team, and compete online. Tactics, formations, player positioning, and match control are important parts of gameplay."
   },
   {
     "id": "49",
@@ -1436,7 +2086,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Red Dead Redemption 2 is an expansive open-world western set in America at the end of the 19th century. You play as Arthur Morgan, a senior member of the Van der Linde gang, as the group struggles to survive while lawmen, rival gangs, and a changing society close in around them. Explore a living frontier, take part in robberies and shootouts, hunt and fish, care for your horse, interact with towns and strangers, and make choices that influence Arthur's relationships and journey.",
+    "description": "Red Dead Redemption 2 is an expansive open-world western set in America at the end of the 19th century. You play as Arthur Morgan, a senior member of the Van der Linde gang, as the group struggles to survive while lawmen, rival gangs, and a changing society close in around them. Explore a living frontier, take part in robberies and shootouts, hunt and fish, care for your horse, interact with towns and strangers, and make choices that influence Arthur's relationships and journey. The world encourages exploration and rewards players who take time to investigate optional locations and activities. A mix of action, discovery, and narrative keeps the experience varied.",
     "discount": "0%",
     "oldPrice": "$59.99",
     "newPrice": "$59.99",
@@ -1444,7 +2094,22 @@
     "slug": "red-dead-redemption-2",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "Italian",
+      "German",
+      "Spanish",
+      "Japanese",
+      "Korean",
+      "Polish",
+      "Russian",
+      "Simplified Chinese",
+      "Traditional Chinese",
+      "Portuguese - Brazil"
+    ],
+    "aboutGame": "This is a story-driven open-world western adventure. You can ride horses, hunt, explore, fight, complete missions, and interact with a highly detailed world. Character relationships and the evolving story are major parts of the experience."
   },
   {
     "id": "50",
@@ -1465,7 +2130,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "The Last of Us Part I is a rebuilt version of Naughty Dog's acclaimed post-apocalyptic adventure. The story follows Joel, a hardened survivor, and Ellie, a teenage girl who may hold the key to humanity's future, as they travel across a dangerous United States. Explore abandoned locations, scavenge for supplies, craft equipment, use stealth, and fight infected and hostile survivors while experiencing a character-driven story about survival, loss, and human connection.",
+    "description": "The Last of Us Part I is a rebuilt version of Naughty Dog's acclaimed post-apocalyptic adventure. The story follows Joel, a hardened survivor, and Ellie, a teenage girl who may hold the key to humanity's future, as they travel across a dangerous United States. Explore abandoned locations, scavenge for supplies, craft equipment, use stealth, and fight infected and hostile survivors while experiencing a character-driven story about survival, loss, and human connection. The world encourages exploration and rewards players who take time to investigate optional locations and activities. A mix of action, discovery, and narrative keeps the experience varied.",
     "discount": "0%",
     "oldPrice": "$59.99",
     "newPrice": "$59.99",
@@ -1473,7 +2138,21 @@
     "slug": "the-last-of-us-part-i",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888930/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888930/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Polish",
+      "Portuguese",
+      "Japanese",
+      "Korean",
+      "Simplified Chinese"
+    ],
+    "aboutGame": "This is a story-driven third-person action-adventure game set in a post-apocalyptic world. Joel and Ellie travel through dangerous areas while facing infected creatures and hostile survivors. Stealth, scavenging, crafting, combat, and character-driven storytelling are central to the experience."
   },
   {
     "id": "51",
@@ -1494,7 +2173,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "God of War follows Kratos and his young son Atreus as they travel through the Norse realms to fulfill the final wish of Kratos' late wife. Their journey brings them into conflict with gods, monsters, and ancient forces while father and son gradually learn more about each other and their past. Explore dangerous environments, solve environmental puzzles, upgrade weapons and abilities, and master close-range combat with the Leviathan Axe and other tools.",
+    "description": "God of War follows Kratos and his young son Atreus as they travel through the Norse realms to fulfill the final wish of Kratos' late wife. Their journey brings them into conflict with gods, monsters, and ancient forces while father and son gradually learn more about each other and their past. Explore dangerous environments, solve environmental puzzles, upgrade weapons and abilities, and master close-range combat with the Leviathan Axe and other tools. The world encourages exploration and rewards players who take time to investigate optional locations and activities. A mix of action, discovery, and narrative keeps the experience varied.",
     "discount": "0%",
     "oldPrice": "$49.99",
     "newPrice": "$49.99",
@@ -1502,7 +2181,20 @@
     "slug": "god-of-war",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Polish",
+      "Portuguese",
+      "Japanese",
+      "Simplified Chinese"
+    ],
+    "aboutGame": "This is a third-person action-adventure game inspired by Norse mythology. Kratos and Atreus explore dangerous realms while fighting enemies and uncovering their story. Combat, exploration, puzzles, and the relationship between the two characters are major parts of the game."
   },
   {
     "id": "52",
@@ -1523,7 +2215,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "UNCHARTED: Legacy of Thieves Collection brings together two cinematic action adventures starring Nathan Drake and Chloe Frazer. Travel across exotic locations, uncover ancient mysteries, solve environmental puzzles, climb dangerous ruins, and engage in intense gunfights and vehicle sequences. The collection combines treasure hunting, exploration, character-driven storytelling, and large cinematic set pieces into a fast-paced adventure.",
+    "description": "UNCHARTED: Legacy of Thieves Collection brings together two cinematic action adventures starring Nathan Drake and Chloe Frazer. Travel across exotic locations, uncover ancient mysteries, solve environmental puzzles, climb dangerous ruins, and engage in intense gunfights and vehicle sequences. The collection combines treasure hunting, exploration, character-driven storytelling, and large cinematic set pieces into a fast-paced adventure. The world encourages exploration and rewards players who take time to investigate optional locations and activities. A mix of action, discovery, and narrative keeps the experience varied.",
     "discount": "0%",
     "oldPrice": "$49.99",
     "newPrice": "$49.99",
@@ -1531,7 +2223,20 @@
     "slug": "uncharted-legacy-of-thieves-collection",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659420/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659420/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Polish",
+      "Portuguese",
+      "Japanese",
+      "Simplified Chinese"
+    ],
+    "aboutGame": "This is a cinematic action-adventure collection focused on exploration and treasure hunting. Gameplay combines shooting, platforming, puzzles, climbing, and set-piece sequences. Its varied locations and cinematic presentation give it the feel of an interactive adventure movie."
   },
   {
     "id": "53",
@@ -1552,7 +2257,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Detroit: Become Human is a narrative adventure set in a near-future Detroit where advanced androids have become part of everyday life. You follow several characters whose lives become connected as questions about freedom, identity, and humanity grow increasingly important. Your choices can change relationships, unlock different scenes, determine who survives, and lead the story toward very different outcomes.",
+    "description": "Detroit: Become Human is a narrative adventure set in a near-future Detroit where advanced androids have become part of everyday life. You follow several characters whose lives become connected as questions about freedom, identity, and humanity grow increasingly important. Your choices can change relationships, unlock different scenes, determine who survives, and lead the story toward very different outcomes. The world encourages exploration and rewards players who take time to investigate optional locations and activities. A mix of action, discovery, and narrative keeps the experience varied.",
     "discount": "0%",
     "oldPrice": "$39.99",
     "newPrice": "$39.99",
@@ -1560,7 +2265,20 @@
     "slug": "detroit-become-human",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Polish",
+      "Portuguese",
+      "Japanese",
+      "Simplified Chinese"
+    ],
+    "aboutGame": "This is an interactive narrative adventure built around choices and branching stories. You control several android characters and make decisions that can change events and relationships. Multiple endings and story paths make different playthroughs feel substantially different."
   },
   {
     "id": "54",
@@ -1581,7 +2299,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Mafia: Definitive Edition is a complete remake of the classic crime story set in the fictional city of Lost Heaven during the Prohibition era. You play as Tommy Angelo, a taxi driver who becomes involved with the Salieri crime family and gradually rises through the ranks. Follow a cinematic story filled with organized crime, rival gangs, dangerous jobs, driving, shootouts, and difficult choices.",
+    "description": "Mafia: Definitive Edition is a complete remake of the classic crime story set in the fictional city of Lost Heaven during the Prohibition era. You play as Tommy Angelo, a taxi driver who becomes involved with the Salieri crime family and gradually rises through the ranks. Follow a cinematic story filled with organized crime, rival gangs, dangerous jobs, driving, shootouts, and difficult choices. The world encourages exploration and rewards players who take time to investigate optional locations and activities. A mix of action, discovery, and narrative keeps the experience varied.",
     "discount": "0%",
     "oldPrice": "$39.99",
     "newPrice": "$39.99",
@@ -1589,7 +2307,20 @@
     "slug": "mafia-definitive-edition",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Polish",
+      "Portuguese",
+      "Czech",
+      "Simplified Chinese"
+    ],
+    "aboutGame": "This is a story-driven action game set in a fictionalized 1930s American city. You play as Tommy Angelo as he becomes involved with organized crime through missions, shootouts, and driving. Its period atmosphere and cinematic story are major parts of the experience."
   },
   {
     "id": "55",
@@ -1611,7 +2342,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Ghost of Tsushima DIRECTOR'S CUT is an open-world action adventure set during the Mongol invasion of Tsushima in 1274. You play as Jin Sakai, a samurai who must defend his homeland while adapting his traditional code to survive a powerful enemy. Explore the island, master katana combat, archery, and stealth, discover side stories, customize your abilities, and develop your own approach to becoming the Ghost.",
+    "description": "Ghost of Tsushima DIRECTOR'S CUT is an open-world action adventure set during the Mongol invasion of Tsushima in 1274. You play as Jin Sakai, a samurai who must defend his homeland while adapting his traditional code to survive a powerful enemy. Explore the island, master katana combat, archery, and stealth, discover side stories, customize your abilities, and develop your own approach to becoming the Ghost. The world encourages exploration and rewards players who take time to investigate optional locations and activities. A mix of action, discovery, and narrative keeps the experience varied.",
     "discount": "0%",
     "oldPrice": "$59.99",
     "newPrice": "$59.99",
@@ -1619,7 +2350,20 @@
     "slug": "ghost-of-tsushima-directors-cut",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Polish",
+      "Portuguese",
+      "Japanese",
+      "Simplified Chinese"
+    ],
+    "aboutGame": "This is an open-world action-adventure game set in feudal Japan. Jin Sakai combines samurai sword fighting with stealth techniques while defending Tsushima. Exploration, sword combat, side activities, and the natural environment are major parts of the experience."
   },
   {
     "id": "56",
@@ -1640,7 +2384,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "Days Gone is an open-world action adventure set in a post-apocalyptic Pacific Northwest overrun by dangerous Freakers. You play as Deacon St. John, a drifter and bounty hunter traveling on his motorcycle while searching for answers about the woman he lost. Explore forests, settlements, and abandoned locations, fight human enemies and massive Freaker hordes, upgrade your bike and weapons, and uncover Deacon's story as he searches for a reason to keep going.",
+    "description": "Days Gone is an open-world action adventure set in a post-apocalyptic Pacific Northwest overrun by dangerous Freakers. You play as Deacon St. John, a drifter and bounty hunter traveling on his motorcycle while searching for answers about the woman he lost. Explore forests, settlements, and abandoned locations, fight human enemies and massive Freaker hordes, upgrade your bike and weapons, and uncover Deacon's story as he searches for a reason to keep going. The world encourages exploration and rewards players who take time to investigate optional locations and activities. A mix of action, discovery, and narrative keeps the experience varied.",
     "discount": "0%",
     "oldPrice": "$49.99",
     "newPrice": "$49.99",
@@ -1648,7 +2392,20 @@
     "slug": "days-gone",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Polish",
+      "Portuguese",
+      "Japanese",
+      "Simplified Chinese"
+    ],
+    "aboutGame": "This is an open-world survival action game set in a world overrun by dangerous Freakers. Deacon travels by motorcycle, explores abandoned areas, gathers resources, and fights hostile groups and large hordes. Motorcycle management and surviving Freaker hordes are distinctive parts of the gameplay."
   },
   {
     "id": "57",
@@ -1671,7 +2428,7 @@
       "Steam Workshop"
     ],
     "playerRating": "Very Positive",
-    "description": "Warframe is a free-to-play online action game where players awaken as the Tenno and fight across a science-fiction universe. Use powerful Warframes, weapons, abilities, and movement skills while completing missions and progressing through a story-driven experience.",
+    "description": "Warframe is a free-to-play online action game where players awaken as the Tenno and fight across a science-fiction universe. Use powerful Warframes, weapons, abilities, and movement skills while completing missions and progressing through a story-driven experience. Character progression gives you several ways to improve your abilities and adapt your playstyle. Exploration and optional activities also add depth beyond the main storyline.",
     "discount": "0%",
     "oldPrice": "Free",
     "newPrice": "Free",
@@ -1679,7 +2436,22 @@
     "slug": "warframe",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Polish",
+      "Portuguese",
+      "Simplified Chinese",
+      "Traditional Chinese",
+      "Japanese",
+      "Korean"
+    ],
+    "aboutGame": "This is a fast-paced third-person action game with online cooperative gameplay. You collect and upgrade different Warframes, weapons, abilities, and equipment while completing missions. Loot, customization, movement, and long-term progression are central to the experience."
   },
   {
     "id": "58",
@@ -1701,7 +2473,7 @@
       "Steam Achievements"
     ],
     "playerRating": "Mostly Positive",
-    "description": "Apex Legends is a free-to-play hero shooter and battle royale where squads choose from a growing roster of Legends with unique abilities. Teamwork, positioning, looting, and fast-paced combat are central to surviving matches and becoming the last squad standing.",
+    "description": "Apex Legends is a free-to-play hero shooter and battle royale where squads choose from a growing roster of Legends with unique abilities. Teamwork, positioning, looting, and fast-paced combat are central to surviving matches and becoming the last squad standing. The world encourages exploration and rewards players who take time to investigate optional locations and activities. A mix of action, discovery, and narrative keeps the experience varied.",
     "discount": "0%",
     "oldPrice": "Free",
     "newPrice": "Free",
@@ -1709,7 +2481,21 @@
     "slug": "apex-legends",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Polish",
+      "Portuguese",
+      "Japanese",
+      "Simplified Chinese",
+      "Korean"
+    ],
+    "aboutGame": "This is a fast-paced hero-based battle royale first-person shooter. Each Legend has unique abilities that create different team roles and strategies. Movement, aiming, positioning, and communication are essential for surviving and winning matches."
   },
   {
     "id": "59",
@@ -1735,7 +2521,7 @@
       "Steam Trading Cards"
     ],
     "playerRating": "Very Positive",
-    "description": "Path of Exile is a free online action RPG set in the dark fantasy world of Wraeclast. Build a highly customizable character, explore dangerous areas, collect powerful items, and develop unique skill combinations through its deep progression systems.",
+    "description": "Path of Exile is a free online action RPG set in the dark fantasy world of Wraeclast. Build a highly customizable character, explore dangerous areas, collect powerful items, and develop unique skill combinations through its deep progression systems. Character progression gives you several ways to improve your abilities and adapt your playstyle. Exploration and optional activities also add depth beyond the main storyline.",
     "discount": "0%",
     "oldPrice": "Free",
     "newPrice": "Free",
@@ -1743,7 +2529,21 @@
     "slug": "path-of-exile",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238960/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238960/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Spanish",
+      "Russian",
+      "Portuguese",
+      "Thai",
+      "Simplified Chinese",
+      "Traditional Chinese",
+      "Japanese",
+      "Korean"
+    ],
+    "aboutGame": "This is a free-to-play action RPG known for its deep character-building system. You defeat enemies, collect loot, and develop your character through a large network of skills and customization options. Build variety and extensive endgame content are major parts of the game."
   },
   {
     "id": "60",
@@ -1763,7 +2563,7 @@
       "Full Controller Support"
     ],
     "playerRating": "Very Positive",
-    "description": "The Elder Scrolls V: Skyrim Special Edition brings the epic fantasy adventure of Skyrim to PC with enhanced visuals and all-new features. Explore a vast open world, create and customize your character, join factions, master different skills, complete quests, and uncover ancient mysteries across the province of Skyrim.",
+    "description": "The Elder Scrolls V: Skyrim Special Edition brings the epic fantasy adventure of Skyrim to PC with enhanced visuals and all-new features. Explore a vast open world, create and customize your character, join factions, master different skills, complete quests, and uncover ancient mysteries across the province of Skyrim. Character progression gives you several ways to improve your abilities and adapt your playstyle. Exploration and optional activities also add depth beyond the main storyline.",
     "discount": "0%",
     "oldPrice": "$39.99",
     "newPrice": "$39.99",
@@ -1771,6 +2571,19 @@
     "slug": "the-elder-scrolls-v-skyrim-special-edition",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/capsule_231x87.jpg",
-    "images": []
+    "images": [],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Russian",
+      "Polish",
+      "Portuguese",
+      "Japanese",
+      "Simplified Chinese"
+    ],
+    "aboutGame": "This is an open-world fantasy RPG with a large world to explore freely. You can complete quests, develop skills, fight enemies, join factions, and customize your character in many ways. Exploration, side quests, and character progression provide a large amount of optional content."
   }
 ]
