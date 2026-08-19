@@ -9,7 +9,7 @@
     "platform": "Windows",
     "genres": [
       "Action",
-      "Free To Play"
+      "Shooter"
     ],
     "features": [
       "Multi-player",
@@ -60,8 +60,9 @@
     "releaseDate": "07/09/13",
     "platform": "Windows",
     "genres": [
-      "Action",
-      "Free To Play"
+      "MOBA",
+      "Strategy",
+      "Action"
     ],
     "features": [
       "Multi-player",
@@ -113,7 +114,8 @@
     "platform": "Windows",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Open World"
     ],
     "features": [
       "Single-player",
@@ -165,7 +167,8 @@
     "releaseDate": "03/19/20",
     "platform": "Windows",
     "genres": [
-      "Action"
+      "Action",
+      "Shooter"
     ],
     "features": [
       "Single-player",
@@ -215,7 +218,8 @@
     "platform": "Windows",
     "genres": [
       "Action",
-      "RPG"
+      "RPG",
+      "Roguelike"
     ],
     "features": [
       "Single-player",
@@ -312,7 +316,8 @@
     "platform": "Windows",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Stealth"
     ],
     "features": [
       "Single-player",
@@ -360,7 +365,9 @@
     "platform": "Windows",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Open World",
+      "Stealth"
     ],
     "features": [
       "Single-player",
@@ -408,7 +415,8 @@
     "releaseDate": "10/28/16",
     "platform": "Windows",
     "genres": [
-      "Action"
+      "Action",
+      "Shooter"
     ],
     "features": [
       "Single-player",
@@ -457,7 +465,9 @@
     "releaseDate": "11/17/09",
     "platform": "Windows",
     "genres": [
-      "Action"
+      "Action",
+      "Shooter",
+      "Survival"
     ],
     "features": [
       "Single-player",
@@ -509,7 +519,8 @@
     "platform": "Windows",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Open World"
     ],
     "features": [
       "Single-player",
@@ -560,7 +571,9 @@
     "platform": "Windows",
     "genres": [
       "RPG",
-      "Adventure"
+      "Action",
+      "Adventure",
+      "Open World"
     ],
     "features": [
       "Single-player",
@@ -610,7 +623,8 @@
     "releaseDate": "01/29/15",
     "platform": "Windows",
     "genres": [
-      "Adventure"
+      "Adventure",
+      "Narrative"
     ],
     "features": [
       "Single-player",
@@ -659,7 +673,9 @@
     "platform": "Windows",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Survival",
+      "Puzzle"
     ],
     "features": [
       "Single-player",
@@ -708,7 +724,9 @@
     "platform": "Windows",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Survival",
+      "Puzzle"
     ],
     "features": [
       "Single-player",
@@ -757,8 +775,8 @@
     "platform": "Windows",
     "genres": [
       "Action",
-      "Adventure",
-      "RPG"
+      "RPG",
+      "Open World"
     ],
     "features": [
       "Single-player",
@@ -807,8 +825,9 @@
     "releaseDate": "07/14/20",
     "platform": "Windows",
     "genres": [
-      "Action",
-      "Adventure"
+      "Adventure",
+      "Open World",
+      "Narrative"
     ],
     "features": [
       "Single-player",
@@ -858,7 +877,9 @@
     "releaseDate": "07/19/22",
     "platform": "Windows",
     "genres": [
-      "Adventure"
+      "Adventure",
+      "Puzzle",
+      "Narrative"
     ],
     "features": [
       "Single-player",
@@ -905,9 +926,9 @@
     "releaseDate": "08/03/23",
     "platform": "Windows",
     "genres": [
-      "Adventure",
       "RPG",
-      "Strategy"
+      "Strategy",
+      "Adventure"
     ],
     "features": [
       "Single-player",
@@ -958,7 +979,8 @@
     "platform": "Windows",
     "genres": [
       "Action",
-      "RPG"
+      "RPG",
+      "Open World"
     ],
     "features": [
       "Single-player",
@@ -1009,7 +1031,9 @@
     "releaseDate": "12/09/20",
     "platform": "Windows",
     "genres": [
-      "RPG"
+      "RPG",
+      "Action",
+      "Open World"
     ],
     "features": [
       "Single-player",
@@ -1059,7 +1083,10 @@
     "releaseDate": "11/09/15",
     "platform": "Windows",
     "genres": [
-      "RPG"
+      "RPG",
+      "Action",
+      "Open World",
+      "Survival"
     ],
     "features": [
       "Single-player",
@@ -1108,7 +1135,8 @@
     "platform": "Windows",
     "genres": [
       "Action",
-      "RPG"
+      "RPG",
+      "Survival"
     ],
     "features": [
       "Single-player",
@@ -1160,7 +1188,9 @@
     "releaseDate": "10/20/22",
     "platform": "Windows",
     "genres": [
-      "RPG"
+      "RPG",
+      "Strategy",
+      "Narrative"
     ],
     "features": [
       "Single-player",
@@ -1209,7 +1239,8 @@
     "platform": "Windows",
     "genres": [
       "RPG",
-      "Strategy"
+      "Strategy",
+      "Adventure"
     ],
     "features": [
       "Single-player",
@@ -1259,7 +1290,8 @@
     "platform": "Windows",
     "genres": [
       "Action",
-      "RPG"
+      "RPG",
+      "Open World"
     ],
     "features": [
       "Single-player",
@@ -1359,7 +1391,9 @@
     "releaseDate": "09/05/23",
     "platform": "Windows",
     "genres": [
-      "RPG"
+      "RPG",
+      "Open World",
+      "Shooter"
     ],
     "features": [
       "Single-player",
@@ -1409,7 +1443,9 @@
     "platform": "Windows",
     "genres": [
       "Action",
-      "Horror"
+      "Horror",
+      "Shooter",
+      "Survival"
     ],
     "features": [
       "Single-player",
@@ -1462,7 +1498,9 @@
     "platform": "Windows",
     "genres": [
       "Action",
-      "Horror"
+      "Horror",
+      "Shooter",
+      "Survival"
     ],
     "features": [
       "Single-player",
@@ -1514,9 +1552,9 @@
     "releaseDate": "01/23/17",
     "platform": "Windows",
     "genres": [
-      "Action",
-      "Adventure",
-      "Horror"
+      "Horror",
+      "Shooter",
+      "Survival"
     ],
     "features": [
       "Single-player",
@@ -1563,9 +1601,8 @@
     "releaseDate": "09/08/10",
     "platform": "Windows",
     "genres": [
-      "Action",
-      "Adventure",
-      "Horror"
+      "Horror",
+      "Survival"
     ],
     "features": [
       "Single-player",
@@ -1613,9 +1650,9 @@
     "releaseDate": "09/04/13",
     "platform": "Windows",
     "genres": [
-      "Action",
-      "Adventure",
-      "Horror"
+      "Horror",
+      "Survival",
+      "Stealth"
     ],
     "features": [
       "Single-player",
@@ -1663,9 +1700,9 @@
     "releaseDate": "10/06/14",
     "platform": "Windows",
     "genres": [
-      "Action",
-      "Adventure",
-      "Horror"
+      "Horror",
+      "Survival",
+      "Stealth"
     ],
     "features": [
       "Single-player",
@@ -1713,9 +1750,9 @@
     "releaseDate": "09/21/15",
     "platform": "Windows",
     "genres": [
-      "Action",
-      "Adventure",
-      "Horror"
+      "Horror",
+      "Survival",
+      "Narrative"
     ],
     "features": [
       "Single-player",
@@ -1763,9 +1800,9 @@
     "releaseDate": "10/13/14",
     "platform": "Windows",
     "genres": [
+      "Horror",
       "Action",
-      "Adventure",
-      "Horror"
+      "Survival"
     ],
     "features": [
       "Single-player",
@@ -1959,7 +1996,8 @@
     "releaseDate": "02/04/16",
     "platform": "Windows",
     "genres": [
-      "Strategy"
+      "Strategy",
+      "Shooter"
     ],
     "features": [
       "Single-player",
@@ -2105,7 +2143,7 @@
     "platform": "Windows",
     "genres": [
       "Racing",
-      "Sports"
+      "Open World"
     ],
     "features": [
       "Single-player",
@@ -2156,7 +2194,7 @@
     "platform": "Windows",
     "genres": [
       "Racing",
-      "Sports"
+      "Open World"
     ],
     "features": [
       "Single-player",
@@ -2206,8 +2244,8 @@
     "releaseDate": "10/18/12",
     "platform": "Windows",
     "genres": [
-      "Indie",
-      "Simulation"
+      "Simulation",
+      "Open World"
     ],
     "features": [
       "Single-player",
@@ -2258,8 +2296,7 @@
     "platform": "Windows",
     "genres": [
       "Racing",
-      "Simulation",
-      "Sports"
+      "Simulation"
     ],
     "features": [
       "Single-player",
@@ -2310,6 +2347,7 @@
     "platform": "Windows",
     "genres": [
       "Racing",
+      "Simulation",
       "Sports"
     ],
     "features": [
@@ -2360,8 +2398,8 @@
     "releaseDate": "09/26/24",
     "platform": "Windows",
     "genres": [
-      "Simulation",
-      "Sports"
+      "Sports",
+      "Simulation"
     ],
     "features": [
       "Single-player",
@@ -2412,7 +2450,8 @@
     "platform": "Windows",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Open World"
     ],
     "features": [
       "Single-player",
@@ -2464,7 +2503,9 @@
     "platform": "Windows",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Survival",
+      "Narrative"
     ],
     "features": [
       "Single-player",
@@ -2563,7 +2604,8 @@
     "platform": "Windows",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Shooter"
     ],
     "features": [
       "Single-player",
@@ -2611,8 +2653,8 @@
     "releaseDate": "12/12/19",
     "platform": "Windows",
     "genres": [
-      "Action",
-      "Adventure"
+      "Adventure",
+      "Narrative"
     ],
     "features": [
       "Single-player",
@@ -2661,7 +2703,8 @@
     "platform": "Windows",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Open World"
     ],
     "features": [
       "Single-player",
@@ -2710,7 +2753,9 @@
     "platform": "Windows",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Open World",
+      "Stealth"
     ],
     "features": [
       "Single-player",
@@ -2760,7 +2805,8 @@
     "platform": "Windows",
     "genres": [
       "Action",
-      "Adventure"
+      "Open World",
+      "Survival"
     ],
     "features": [
       "Single-player",
@@ -2810,7 +2856,7 @@
     "genres": [
       "Action",
       "RPG",
-      "Free To Play"
+      "Shooter"
     ],
     "features": [
       "Single-player",
@@ -2862,8 +2908,7 @@
     "platform": "Windows",
     "genres": [
       "Action",
-      "Adventure",
-      "Free To Play"
+      "Shooter"
     ],
     "features": [
       "Multi-player",
@@ -2913,11 +2958,7 @@
     "platform": "Windows",
     "genres": [
       "Action",
-      "Adventure",
-      "Indie",
-      "Massively Multiplayer",
-      "RPG",
-      "Free To Play"
+      "RPG"
     ],
     "features": [
       "Single-player",
@@ -2967,7 +3008,9 @@
     "releaseDate": "10/27/16",
     "platform": "Windows",
     "genres": [
-      "RPG"
+      "RPG",
+      "Action",
+      "Open World"
     ],
     "features": [
       "Single-player",
