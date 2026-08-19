@@ -27,7 +27,14 @@
     "slug": "counter-strike-2",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -72,7 +79,14 @@
     "slug": "dota-2",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -118,7 +132,14 @@
     "slug": "grand-theft-auto-v",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -162,7 +183,14 @@
     "slug": "doom-eternal",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782330/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782330/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782330/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782330/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782330/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782330/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782330/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782330/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -204,7 +232,14 @@
     "slug": "hades",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -244,7 +279,14 @@
     "slug": "devil-may-cry-5",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601150/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601150/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601150/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601150/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601150/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601150/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601150/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601150/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -286,7 +328,14 @@
     "slug": "sekiro-shadows-die-twice",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -328,7 +377,14 @@
     "slug": "batman-arkham-knight",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208650/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208650/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208650/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208650/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208650/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208650/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208650/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208650/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -370,7 +426,14 @@
     "slug": "titanfall-2",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237970/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237970/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237970/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237970/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237970/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237970/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237970/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237970/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -413,7 +476,14 @@
     "slug": "left-4-dead-2",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -456,7 +526,14 @@
     "slug": "red-dead-redemption-2",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -500,7 +577,14 @@
     "slug": "the-witcher-3-wild-hunt",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -543,7 +627,14 @@
     "slug": "life-is-strange",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -585,7 +676,14 @@
     "slug": "tomb-raider",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -627,7 +725,14 @@
     "slug": "rise-of-the-tomb-raider",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -670,7 +775,14 @@
     "slug": "horizon-zero-dawn-complete-edition",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -713,7 +825,14 @@
     "slug": "death-stranding-directors-cut",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190460/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190460/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190460/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190460/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190460/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190460/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190460/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190460/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -756,7 +875,14 @@
     "slug": "stray",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -800,7 +926,14 @@
     "slug": "baldurs-gate-3",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -844,7 +977,14 @@
     "slug": "elden-ring",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -886,7 +1026,14 @@
     "slug": "cyberpunk-2077",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -929,7 +1076,14 @@
     "slug": "fallout-4",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -973,7 +1127,14 @@
     "slug": "monster-hunter-world",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -1016,7 +1177,14 @@
     "slug": "persona-5-royal",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -1060,7 +1228,14 @@
     "slug": "divinity-original-sin-2",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435150/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435150/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435150/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435150/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435150/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435150/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435150/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435150/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -1101,7 +1276,14 @@
     "slug": "dragons-dogma-2",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -1145,7 +1327,14 @@
     "slug": "darksouls-iii",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -1187,7 +1376,14 @@
     "slug": "starfield",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1716740/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1716740/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1716740/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1716740/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1716740/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1716740/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1716740/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1716740/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -1230,7 +1426,14 @@
     "slug": "resident-evil-2",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883710/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883710/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883710/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883710/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883710/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883710/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883710/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883710/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -1276,7 +1479,14 @@
     "slug": "resident-evil-4",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -1323,7 +1533,14 @@
     "slug": "resident-evil-7-biohazard",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418370/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418370/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418370/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418370/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418370/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418370/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418370/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418370/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -1365,7 +1582,14 @@
     "slug": "amnesia-the-dark-descent",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57300/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57300/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57300/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57300/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57300/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57300/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57300/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57300/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -1408,7 +1632,14 @@
     "slug": "outlast",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238320/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238320/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238320/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238320/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238320/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238320/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238320/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238320/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -1451,7 +1682,14 @@
     "slug": "alien-isolation",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214490/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214490/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214490/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214490/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214490/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214490/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214490/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214490/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -1494,7 +1732,14 @@
     "slug": "soma",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282140/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282140/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282140/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282140/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282140/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282140/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282140/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282140/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -1537,7 +1782,14 @@
     "slug": "the-evil-within",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -1579,7 +1831,14 @@
     "slug": "sid-meiers-civilization-vi",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -1621,7 +1880,14 @@
     "slug": "age-of-empires-iv",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -1663,7 +1929,14 @@
     "slug": "total-war-warhammer-iii",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142710/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142710/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142710/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142710/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142710/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142710/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142710/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142710/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -1704,7 +1977,14 @@
     "slug": "xcom-2",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -1746,7 +2026,14 @@
     "slug": "stellaris",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -1787,7 +2074,14 @@
     "slug": "hearts-of-iron-iv",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -1830,7 +2124,14 @@
     "slug": "forza-horizon-5",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -1874,7 +2175,14 @@
     "slug": "forza-horizon-4",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293830/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293830/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293830/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293830/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293830/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293830/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293830/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293830/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -1916,7 +2224,14 @@
     "slug": "euro-truck-simulator-2",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -1963,7 +2278,14 @@
     "slug": "assetto-corsa",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244210/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244210/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244210/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244210/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244210/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244210/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244210/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244210/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -2007,7 +2329,14 @@
     "slug": "f1-24",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488620/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488620/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488620/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488620/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488620/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488620/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488620/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488620/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -2051,7 +2380,14 @@
     "slug": "ea-sports-fc-25",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669320/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669320/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669320/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669320/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669320/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669320/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669320/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669320/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -2094,7 +2430,14 @@
     "slug": "red-dead-redemption-2",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -2138,7 +2481,14 @@
     "slug": "the-last-of-us-part-i",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888930/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888930/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888930/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888930/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888930/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888930/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888930/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888930/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -2181,7 +2531,14 @@
     "slug": "god-of-war",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -2223,7 +2580,14 @@
     "slug": "uncharted-legacy-of-thieves-collection",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659420/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659420/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659420/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659420/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659420/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659420/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659420/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659420/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -2265,7 +2629,14 @@
     "slug": "detroit-become-human",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -2307,7 +2678,14 @@
     "slug": "mafia-definitive-edition",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -2350,7 +2728,14 @@
     "slug": "ghost-of-tsushima-directors-cut",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -2392,7 +2777,14 @@
     "slug": "days-gone",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -2436,7 +2828,14 @@
     "slug": "warframe",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -2481,7 +2880,14 @@
     "slug": "apex-legends",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -2529,7 +2935,14 @@
     "slug": "path-of-exile",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238960/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238960/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238960/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238960/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238960/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238960/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238960/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238960/logo.png"
+    ],
     "languages": [
       "English",
       "French",
@@ -2571,7 +2984,14 @@
     "slug": "the-elder-scrolls-v-skyrim-special-edition",
     "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg",
     "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/capsule_231x87.jpg",
-    "images": [],
+    "images": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/logo.png"
+    ],
     "languages": [
       "English",
       "French",
