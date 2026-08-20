@@ -511,39 +511,38 @@
   },
   {
     "id": "11",
-    "title": "Red Dead Redemption 2",
-    "url": "https://store.steampowered.com/app/1174180/",
-    "developer": "Rockstar Games",
-    "publisher": "Rockstar Games",
-    "releaseDate": "12/05/19",
+    "title": "A Plague Tale: Requiem",
+    "url": "https://store.steampowered.com/app/1182900/",
+    "developer": "Asobo Studio",
+    "publisher": "Focus Entertainment",
+    "releaseDate": "10/17/22",
     "platform": "Windows",
     "genres": [
       "Action",
-      "Adventure",
-      "Open World"
+      "Adventure"
     ],
     "features": [
       "Single-player",
       "Steam Achievements",
       "Steam Cloud",
-      "Full Controller Support"
+      "Family Sharing"
     ],
     "playerRating": "Very Positive",
-    "description": "Red Dead Redemption 2 is an open-world western adventure centered on Arthur Morgan, an outlaw and member of the Van der Linde gang. As the gang struggles to survive while the age of outlaws comes to an end, you travel across a vast frontier, complete missions, hunt, explore, and build relationships with other characters. The game combines a detailed world with a character-driven story. The world encourages exploration and rewards players who take time to investigate optional locations and activities. A mix of action, discovery, and narrative keeps the experience varied.",
+    "description": "A Plague Tale: Requiem follows Amicia and Hugo as they travel through new regions while searching for a way to control Hugo's curse. When his powers awaken again, the siblings face deadly swarms of rats and supernatural threats while trying to reach a mysterious island. Stealth, exploration, combat, and careful use of weapons and tools are central to the journey.",
     "discount": "0%",
-    "oldPrice": "$59.99",
-    "newPrice": "$59.99",
+    "oldPrice": "$49.99",
+    "newPrice": "$49.99",
     "category": "adventure",
-    "slug": "red-dead-redemption-2",
-    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
-    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_231x87.jpg",
+    "slug": "a-plague-tale-requiem",
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182900/header.jpg",
+    "coverImage2": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182900/capsule_231x87.jpg",
     "images": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_231x87.jpg",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_616x353.jpg",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/library_600x900.jpg",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/library_hero.jpg",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/logo.png"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182900/header.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182900/capsule_231x87.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182900/capsule_616x353.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182900/library_600x900.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182900/library_hero.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182900/logo.png"
     ],
     "languages": [
       "English",
@@ -551,15 +550,18 @@
       "Italian",
       "German",
       "Spanish",
-      "Japanese",
-      "Korean",
-      "Polish",
-      "Russian",
       "Simplified Chinese",
       "Traditional Chinese",
-      "Portuguese - Brazil"
+      "Polish",
+      "Portuguese",
+      "Russian",
+      "Czech",
+      "Arabic",
+      "Korean",
+      "Japanese",
+      "Ukrainian"
     ],
-    "aboutGame": "This is a story-driven open-world western adventure. You can ride horses, hunt, explore, fight, complete missions, and interact with a highly detailed world. Character relationships and the evolving story are major parts of the experience."
+    "aboutGame": "This is a story-driven action-adventure about Amicia and Hugo as they search for safety and a way to control Hugo's supernatural powers. Stealth, exploration, combat, and environmental interaction are important throughout the journey. The game combines cinematic storytelling with a dangerous world filled with enemies, rats, and supernatural threats."
   },
   {
     "id": "12",
