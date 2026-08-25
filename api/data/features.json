@@ -1,12 +1,34 @@
-{
-  "features": [
-    "Full Controller Support",
-    "Multi-player",
-    "Online Co-op",
-    "Online PvP",
-    "Shared/Split Screen Co-op",
-    "Single-player",
-    "Steam Achievements",
-    "Steam Cloud"
-  ]
-}
+[
+  {
+    "id": 1,
+    "name": "Full Controller Support"
+  },
+  {
+    "id": 2,
+    "name": "Multi-player"
+  },
+  {
+    "id": 3,
+    "name": "Online Co-op"
+  },
+  {
+    "id": 4,
+    "name": "Online PvP"
+  },
+  {
+    "id": 5,
+    "name": "Shared/Split Screen Co-op"
+  },
+  {
+    "id": 6,
+    "name": "Single-player"
+  },
+  {
+    "id": 7,
+    "name": "Steam Achievements"
+  },
+  {
+    "id": 8,
+    "name": "Steam Cloud"
+  }
+]

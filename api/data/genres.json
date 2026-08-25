@@ -1,20 +1,66 @@
-{
-  "genres": [
-    "Action",
-    "Adventure",
-    "RPG",
-    "Strategy",
-    "Shooter",
-    "Horror",
-    "Racing",
-    "Sports",
-    "Simulation",
-    "Survival",
-    "Puzzle",
-    "Stealth",
-    "Open World",
-    "MOBA",
-    "Roguelike",
-    "Narrative"
-  ]
-}
+[
+  {
+    "id": 1,
+    "name": "Action"
+  },
+  {
+    "id": 2,
+    "name": "Adventure"
+  },
+  {
+    "id": 3,
+    "name": "RPG"
+  },
+  {
+    "id": 4,
+    "name": "Strategy"
+  },
+  {
+    "id": 5,
+    "name": "Shooter"
+  },
+  {
+    "id": 6,
+    "name": "Horror"
+  },
+  {
+    "id": 7,
+    "name": "Racing"
+  },
+  {
+    "id": 8,
+    "name": "Sports"
+  },
+  {
+    "id": 9,
+    "name": "Simulation"
+  },
+  {
+    "id": 10,
+    "name": "Survival"
+  },
+  {
+    "id": 11,
+    "name": "Puzzle"
+  },
+  {
+    "id": 12,
+    "name": "Stealth"
+  },
+  {
+    "id": 13,
+    "name": "Open World"
+  },
+  {
+    "id": 14,
+    "name": "MOBA"
+  },
+  {
+    "id": 15,
+    "name": "Roguelike"
+  },
+  {
+    "id": 16,
+    "name": "Narrative"
+  }
+]
