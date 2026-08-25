@@ -1,34 +1,34 @@
 [
   {
     "id": 1,
-    "name": "Full Controller Support"
+    "name": "full controller support"
   },
   {
     "id": 2,
-    "name": "Multi-player"
+    "name": "multi-player"
   },
   {
     "id": 3,
-    "name": "Online Co-op"
+    "name": "online co-op"
   },
   {
     "id": 4,
-    "name": "Online PvP"
+    "name": "online pvp"
   },
   {
     "id": 5,
-    "name": "Shared/Split Screen Co-op"
+    "name": "shared/split screen co-op"
   },
   {
     "id": 6,
-    "name": "Single-player"
+    "name": "single-player"
   },
   {
     "id": 7,
-    "name": "Steam Achievements"
+    "name": "steam achievements"
   },
   {
     "id": 8,
-    "name": "Steam Cloud"
+    "name": "steam cloud"
   }
 ]

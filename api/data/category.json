@@ -1,30 +1,30 @@
 [
   {
     "id": 1,
-    "name": "Action"
+    "name": "action"
   },
   {
     "id": 2,
-    "name": "Adventure"
+    "name": "adventure"
   },
   {
     "id": 3,
-    "name": "Horror"
+    "name": "horror"
   },
   {
     "id": 4,
-    "name": "Racing & Sports"
+    "name": "racing & sports"
   },
   {
     "id": 5,
-    "name": "RPG"
+    "name": "rpg"
   },
   {
     "id": 6,
-    "name": "Story"
+    "name": "story"
   },
   {
     "id": 7,
-    "name": "Strategy"
+    "name": "strategy"
   }
 ]
