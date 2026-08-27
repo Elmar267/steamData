@@ -1,34 +1,46 @@
 [
   {
     "id": 1,
-    "name": "full controller support"
+    "name": "Multi-player"
   },
   {
     "id": 2,
-    "name": "multi-player"
+    "name": "Online PvP"
   },
   {
     "id": 3,
-    "name": "online co-op"
+    "name": "Steam Achievements"
   },
   {
     "id": 4,
-    "name": "online pvp"
+    "name": "Steam Cloud"
   },
   {
     "id": 5,
-    "name": "shared/split screen co-op"
+    "name": "Full Controller Support"
   },
   {
     "id": 6,
-    "name": "single-player"
+    "name": "Single-player"
   },
   {
     "id": 7,
-    "name": "steam achievements"
+    "name": "Online Co-op"
   },
   {
     "id": 8,
-    "name": "steam cloud"
+    "name": "Family Sharing"
+  },
+  {
+    "id": 9,
+    "name": "Cross-Platform Multiplayer"
+  },
+  {
+    "id": 10,
+    "name": "Steam Workshop"
+  },
+  {
+    "id": 11,
+    "name": "Steam Trading Cards"
   }
 ]

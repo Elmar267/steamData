@@ -1,66 +1,66 @@
 [
   {
     "id": 1,
-    "name": "action"
+    "name": "Action"
   },
   {
     "id": 2,
-    "name": "adventure"
+    "name": "Shooter"
   },
   {
     "id": 3,
-    "name": "rpg"
+    "name": "MOBA"
   },
   {
     "id": 4,
-    "name": "strategy"
+    "name": "Strategy"
   },
   {
     "id": 5,
-    "name": "shooter"
+    "name": "Adventure"
   },
   {
     "id": 6,
-    "name": "horror"
+    "name": "Open World"
   },
   {
     "id": 7,
-    "name": "racing"
+    "name": "RPG"
   },
   {
     "id": 8,
-    "name": "sports"
+    "name": "Roguelike"
   },
   {
     "id": 9,
-    "name": "simulation"
+    "name": "Stealth"
   },
   {
     "id": 10,
-    "name": "survival"
+    "name": "Survival"
   },
   {
     "id": 11,
-    "name": "puzzle"
+    "name": "Narrative"
   },
   {
     "id": 12,
-    "name": "stealth"
+    "name": "Puzzle"
   },
   {
     "id": 13,
-    "name": "open world"
+    "name": "Horror"
   },
   {
     "id": 14,
-    "name": "moba"
+    "name": "Racing"
   },
   {
     "id": 15,
-    "name": "roguelike"
+    "name": "Simulation"
   },
   {
     "id": 16,
-    "name": "narrative"
+    "name": "Sports"
   }
 ]
