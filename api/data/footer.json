@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "About Steam"
+  },
+  {
+    "id": 2,
+    "name": "Steam SSA"
+  },
+  {
+    "id": 3,
+    "name": "Steamworks"
+  },
+  {
+    "id": 4,
+    "name": "Steam Distribution"
+  },
+  {
+    "id": 5,
+    "name": "Gift Cards"
+  },
+  {
+    "id": 6,
+    "name": "About Valve"
+  },
+  {
+    "id": 7,
+    "name": "Jobs"
+  },
+  {
+    "id": 8,
+    "name": "Hardware"
+  },
+  {
+    "id": 9,
+    "name": "Recycling"
+  },
+  {
+    "id": 10,
+    "name": "Privacy"
+  },
+  {
+    "id": 11,
+    "name": "Accessibility"
+  },
+  {
+    "id": 12,
+    "name": "Notices & Policies"
+  },
+  {
+    "id": 13,
+    "name": "Cookies"
+  },
+  {
+    "id": 14,
+    "name": "Refunds"
+  },
+  {
+    "id": 15,
+    "name": "Get Steam"
+  },
+  {
+    "id": 16,
+    "name": "Get Mobile Apps"
+  },
+  {
+    "id": 17,
+    "name": "Get Support"
+  },
+  {
+    "id": 18,
+    "name": "My Account"
+  }
+]
